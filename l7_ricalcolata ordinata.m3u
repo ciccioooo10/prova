@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://192.168.1.20:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.1.20:34400/xmltv/xteve.xml"
 #EXTINF:0 channelID="x-ID.100" tvg-chno="100" tvg-name="RAI ITALIA FULL HD" tvg-id="RaiItalia.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1026434615a7c7b655c96201496d55ac.jpg" group-title="TOP ITALIA [ S ]",RAI ITALIA FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/26060.ts
 #EXTINF:0 channelID="x-ID.101" tvg-chno="101" tvg-name="RAI 1 4K ( CONN. MINIMA 25MB )" tvg-id="Rai1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/47ec55cc7594085776c661e06f83578c.png" group-title="TOP ITALIA [ S ]",RAI 1 4K ( CONN. MINIMA 25MB )
