@@ -1,717 +1,283 @@
 #EXTM3U url-tvg="http://192.168.1.20:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.1.20:34400/xmltv/xteve.xml"
-#EXTINF:0 channelID="x-ID.100" tvg-chno="100" tvg-name="RAI ITALIA FULL HD" tvg-id="RaiItalia.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1026434615a7c7b655c96201496d55ac.jpg" group-title="TOP ITALIA [ S ]",RAI ITALIA FULL HD
+#EXTINF:-1 channelID="x-ID.100" tvg-chno="100" tvg-name="RAI ITALIA FULL HD" tvg-id="RaiItalia.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1026434615a7c7b655c96201496d55ac.jpg" group-title="TOP ITALIA [ S ]",RAI ITALIA FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/26060.ts
-#EXTINF:0 channelID="x-ID.101" tvg-chno="101" tvg-name="RAI 1 4K ( CONN. MINIMA 25MB )" tvg-id="Rai1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/47ec55cc7594085776c661e06f83578c.png" group-title="TOP ITALIA [ S ]",RAI 1 4K ( CONN. MINIMA 25MB )
+#EXTINF:-1 channelID="x-ID.101" tvg-chno="101" tvg-name="RAI 1 4K ( CONN. MINIMA 25MB )" tvg-id="Rai1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/47ec55cc7594085776c661e06f83578c.png" group-title="TOP ITALIA [ S ]",RAI 1 4K ( CONN. MINIMA 25MB )
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/33571.ts
-#EXTINF:0 channelID="x-ID.102" tvg-chno="102" tvg-name="RAI 1 4K HEVC H265" tvg-id="Rai 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 1 4K HEVC H265
+#EXTINF:-1 channelID="x-ID.102" tvg-chno="102" tvg-name="RAI 1 4K HEVC H265" tvg-id="Rai 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 1 4K HEVC H265
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5322.ts
-#EXTINF:0 channelID="x-ID.103" tvg-chno="103" tvg-name="RAI 1 FULL HD" tvg-id="Rai 1 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/4e32029f889d27ed0096b318a8db2e11.png" group-title="TOP ITALIA [ S ]",RAI 1 FULL HD
+#EXTINF:-1 channelID="x-ID.103" tvg-chno="103" tvg-name="RAI 1 FULL HD" tvg-id="Rai 1 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/4e32029f889d27ed0096b318a8db2e11.png" group-title="TOP ITALIA [ S ]",RAI 1 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/262.ts
-#EXTINF:0 channelID="x-ID.104" tvg-chno="104" tvg-name="RAI 1 HD" tvg-id="Rai 1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 1 HD
+#EXTINF:-1 channelID="x-ID.104" tvg-chno="104" tvg-name="RAI 1 HD" tvg-id="Rai 1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 1 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/261.ts
-#EXTINF:0 channelID="x-ID.105" tvg-chno="105" tvg-name="RAI 1 SD" tvg-id="Rai 1 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20HD.png" group-title="TOP ITALIA [ S ]",RAI 1 SD
+#EXTINF:-1 channelID="x-ID.105" tvg-chno="105" tvg-name="RAI 1 SD" tvg-id="Rai 1 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20HD.png" group-title="TOP ITALIA [ S ]",RAI 1 SD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/260.ts
-#EXTINF:0 channelID="x-ID.106" tvg-chno="106" tvg-name="RAI 1 HD +1" tvg-id="Rai 1 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/1304417c7e043d923c008b4a8412b916.png" group-title="TOP ITALIA [ S ]",RAI 1 HD +1
+#EXTINF:-1 channelID="x-ID.106" tvg-chno="106" tvg-name="RAI 1 HD +1" tvg-id="Rai 1 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/1304417c7e043d923c008b4a8412b916.png" group-title="TOP ITALIA [ S ]",RAI 1 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5410.ts
-#EXTINF:0 channelID="x-ID.107" tvg-chno="107" tvg-name="RAI 2  4K HEVC H265" tvg-id="Rai 2" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 2  4K HEVC H265
+#EXTINF:-1 channelID="x-ID.107" tvg-chno="107" tvg-name="RAI 2  4K HEVC H265" tvg-id="Rai 2" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 2  4K HEVC H265
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5324.ts
-#EXTINF:0 channelID="x-ID.108" tvg-chno="108" tvg-name="RAI 2 FULL HD" tvg-id="Rai 2 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 2 FULL HD
+#EXTINF:-1 channelID="x-ID.108" tvg-chno="108" tvg-name="RAI 2 FULL HD" tvg-id="Rai 2 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 2 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/259.ts
-#EXTINF:0 channelID="x-ID.109" tvg-chno="109" tvg-name="RAI 2 HD" tvg-id="Rai 2 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/c87d3bba827bd03ee88c3a1970153478.png" group-title="TOP ITALIA [ S ]",RAI 2 HD
+#EXTINF:-1 channelID="x-ID.109" tvg-chno="109" tvg-name="RAI 2 HD" tvg-id="Rai 2 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/c87d3bba827bd03ee88c3a1970153478.png" group-title="TOP ITALIA [ S ]",RAI 2 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/258.ts
-#EXTINF:0 channelID="x-ID.110" tvg-chno="110" tvg-name="RAI 2 SD" tvg-id="Rai 2 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202.png" group-title="TOP ITALIA [ S ]",RAI 2 SD
+#EXTINF:-1 channelID="x-ID.110" tvg-chno="110" tvg-name="RAI 2 SD" tvg-id="Rai 2 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202.png" group-title="TOP ITALIA [ S ]",RAI 2 SD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/257.ts
-#EXTINF:0 channelID="x-ID.111" tvg-chno="111" tvg-name="RAI 2 HD +1" tvg-id="Rai 2 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/c87d3bba827bd03ee88c3a1970153478.png" group-title="TOP ITALIA [ S ]",RAI 2 HD +1
+#EXTINF:-1 channelID="x-ID.111" tvg-chno="111" tvg-name="RAI 2 HD +1" tvg-id="Rai 2 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/c87d3bba827bd03ee88c3a1970153478.png" group-title="TOP ITALIA [ S ]",RAI 2 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5411.ts
-#EXTINF:0 channelID="x-ID.112" tvg-chno="112" tvg-name="RAI 3  4K HEVC H265" tvg-id="Rai 3" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S ]",RAI 3  4K HEVC H265
+#EXTINF:-1 channelID="x-ID.112" tvg-chno="112" tvg-name="RAI 3  4K HEVC H265" tvg-id="Rai 3" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S ]",RAI 3  4K HEVC H265
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5326.ts
-#EXTINF:0 channelID="x-ID.113" tvg-chno="113" tvg-name="RAI 3 FULL HD" tvg-id="Rai 3 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 3 FULL HD
+#EXTINF:-1 channelID="x-ID.113" tvg-chno="113" tvg-name="RAI 3 FULL HD" tvg-id="Rai 3 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 3 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/256.ts
-#EXTINF:0 channelID="x-ID.114" tvg-chno="114" tvg-name="RAI 3 HD" tvg-id="Rai 3 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S ]",RAI 3 HD
+#EXTINF:-1 channelID="x-ID.114" tvg-chno="114" tvg-name="RAI 3 HD" tvg-id="Rai 3 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S ]",RAI 3 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/255.ts
-#EXTINF:0 channelID="x-ID.115" tvg-chno="115" tvg-name="RAI 3 SD" tvg-id="Rai 3 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S ]",RAI 3 SD
+#EXTINF:-1 channelID="x-ID.115" tvg-chno="115" tvg-name="RAI 3 SD" tvg-id="Rai 3 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S ]",RAI 3 SD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/254.ts
-#EXTINF:0 channelID="x-ID.116" tvg-chno="116" tvg-name="RAI 3 HD +1" tvg-id="Rai 3 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/a6338810cb64c7943e53bfa07d07e222.png" group-title="TOP ITALIA [ S ]",RAI 3 HD +1
+#EXTINF:-1 channelID="x-ID.116" tvg-chno="116" tvg-name="RAI 3 HD +1" tvg-id="Rai 3 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/a6338810cb64c7943e53bfa07d07e222.png" group-title="TOP ITALIA [ S ]",RAI 3 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5412.ts
-#EXTINF:0 channelID="x-ID.117" tvg-chno="117" tvg-name="RETE 4 4K HEVC H265" tvg-id="Rete 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S ]",RETE 4 4K HEVC H265
+#EXTINF:-1 channelID="x-ID.117" tvg-chno="117" tvg-name="RETE 4 4K HEVC H265" tvg-id="Rete 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S ]",RETE 4 4K HEVC H265
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5328.ts
-#EXTINF:0 channelID="x-ID.118" tvg-chno="118" tvg-name="RETE 4 FULL HD" tvg-id="Rete 4 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S ]",RETE 4 FULL HD
+#EXTINF:-1 channelID="x-ID.118" tvg-chno="118" tvg-name="RETE 4 FULL HD" tvg-id="Rete 4 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S ]",RETE 4 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/230.ts
-#EXTINF:0 channelID="x-ID.119" tvg-chno="119" tvg-name="RETE 4 HD" tvg-id="Rete 4 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20HD.png" group-title="TOP ITALIA [ S ]",RETE 4 HD
+#EXTINF:-1 channelID="x-ID.119" tvg-chno="119" tvg-name="RETE 4 HD" tvg-id="Rete 4 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20HD.png" group-title="TOP ITALIA [ S ]",RETE 4 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/229.ts
-#EXTINF:0 channelID="x-ID.120" tvg-chno="120" tvg-name="RETE 4 SD" tvg-id="Rete 4 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Rete%204.png" group-title="TOP ITALIA [ S ]",RETE 4 SD
+#EXTINF:-1 channelID="x-ID.120" tvg-chno="120" tvg-name="RETE 4 SD" tvg-id="Rete 4 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Rete%204.png" group-title="TOP ITALIA [ S ]",RETE 4 SD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/228.ts
-#EXTINF:0 channelID="x-ID.121" tvg-chno="121" tvg-name="RETE 4 HD +1" tvg-id="Rete 4 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/ede66a11756649b055c75a3090689674.png" group-title="TOP ITALIA [ S ]",RETE 4 HD +1
+#EXTINF:-1 channelID="x-ID.121" tvg-chno="121" tvg-name="RETE 4 HD +1" tvg-id="Rete 4 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/ede66a11756649b055c75a3090689674.png" group-title="TOP ITALIA [ S ]",RETE 4 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5413.ts
-#EXTINF:0 channelID="x-ID.122" tvg-chno="122" tvg-name="CANALE 5  4K HEVC H265" tvg-id="Canale 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205.png" group-title="TOP ITALIA [ S ]",CANALE 5  4K HEVC H265
+#EXTINF:-1 channelID="x-ID.122" tvg-chno="122" tvg-name="CANALE 5  4K HEVC H265" tvg-id="Canale 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205.png" group-title="TOP ITALIA [ S ]",CANALE 5  4K HEVC H265
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5318.ts
-#EXTINF:0 channelID="x-ID.123" tvg-chno="123" tvg-name="CANALE 5 FULL HD" tvg-id="Canale 5 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20FHD.png" group-title="TOP ITALIA [ S ]",CANALE 5 FULL HD
+#EXTINF:-1 channelID="x-ID.123" tvg-chno="123" tvg-name="CANALE 5 FULL HD" tvg-id="Canale 5 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20FHD.png" group-title="TOP ITALIA [ S ]",CANALE 5 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/359.ts
-#EXTINF:0 channelID="x-ID.124" tvg-chno="124" tvg-name="CANALE 5 HD" tvg-id="Canale 5 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20HD.png" group-title="TOP ITALIA [ S ]",CANALE 5 HD
+#EXTINF:-1 channelID="x-ID.124" tvg-chno="124" tvg-name="CANALE 5 HD" tvg-id="Canale 5 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20HD.png" group-title="TOP ITALIA [ S ]",CANALE 5 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/358.ts
-#EXTINF:0 channelID="x-ID.125" tvg-chno="125" tvg-name="CANALE 5 SD" tvg-id="Canale 5 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Canale%205.png" group-title="TOP ITALIA [ S ]",CANALE 5 SD
+#EXTINF:-1 channelID="x-ID.125" tvg-chno="125" tvg-name="CANALE 5 SD" tvg-id="Canale 5 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Canale%205.png" group-title="TOP ITALIA [ S ]",CANALE 5 SD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/357.ts
-#EXTINF:0 channelID="x-ID.126" tvg-chno="126" tvg-name="CANALE 5 HD +1" tvg-id="Canale 5 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/3e5e1ed591af378c96a1de25b4aff8e5.png" group-title="TOP ITALIA [ S ]",CANALE 5 HD +1
+#EXTINF:-1 channelID="x-ID.126" tvg-chno="126" tvg-name="CANALE 5 HD +1" tvg-id="Canale 5 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/3e5e1ed591af378c96a1de25b4aff8e5.png" group-title="TOP ITALIA [ S ]",CANALE 5 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5414.ts
-#EXTINF:0 channelID="x-ID.127" tvg-chno="127" tvg-name="ITALIA 1  4K HEVC H265" tvg-id="Italia 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201.png" group-title="TOP ITALIA [ S ]",ITALIA 1  4K HEVC H265
+#EXTINF:-1 channelID="x-ID.127" tvg-chno="127" tvg-name="ITALIA 1  4K HEVC H265" tvg-id="Italia 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201.png" group-title="TOP ITALIA [ S ]",ITALIA 1  4K HEVC H265
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5320.ts
-#EXTINF:0 channelID="x-ID.128" tvg-chno="128" tvg-name="ITALIA 1 FULL HD" tvg-id="Italia 1 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201%20FHD.png" group-title="TOP ITALIA [ S ]",ITALIA 1 FULL HD
+#EXTINF:-1 channelID="x-ID.128" tvg-chno="128" tvg-name="ITALIA 1 FULL HD" tvg-id="Italia 1 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201%20FHD.png" group-title="TOP ITALIA [ S ]",ITALIA 1 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/308.ts
-#EXTINF:0 channelID="x-ID.129" tvg-chno="129" tvg-name="ITALIA 1 HD" tvg-id="Italia 1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201.png" group-title="TOP ITALIA [ S ]",ITALIA 1 HD
+#EXTINF:-1 channelID="x-ID.129" tvg-chno="129" tvg-name="ITALIA 1 HD" tvg-id="Italia 1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201.png" group-title="TOP ITALIA [ S ]",ITALIA 1 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/307.ts
-#EXTINF:0 channelID="x-ID.130" tvg-chno="130" tvg-name="ITALIA 1 SD" tvg-id="Italia 1 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201.png" group-title="TOP ITALIA [ S ]",ITALIA 1 SD
+#EXTINF:-1 channelID="x-ID.130" tvg-chno="130" tvg-name="ITALIA 1 SD" tvg-id="Italia 1 SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201.png" group-title="TOP ITALIA [ S ]",ITALIA 1 SD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/306.ts
-#EXTINF:0 channelID="x-ID.131" tvg-chno="131" tvg-name="ITALIA 1 HD +1" tvg-id="Italia 1 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/6f47bdc0f204aa9973c64946e6f311f8.png" group-title="TOP ITALIA [ S ]",ITALIA 1 HD +1
+#EXTINF:-1 channelID="x-ID.131" tvg-chno="131" tvg-name="ITALIA 1 HD +1" tvg-id="Italia 1 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/6f47bdc0f204aa9973c64946e6f311f8.png" group-title="TOP ITALIA [ S ]",ITALIA 1 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/12728.ts
-#EXTINF:0 channelID="x-ID.132" tvg-chno="132" tvg-name="LA 7 FULL HD" tvg-id="La 7 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S ]",LA 7 FULL HD
+#EXTINF:-1 channelID="x-ID.132" tvg-chno="132" tvg-name="LA 7 FULL HD" tvg-id="La 7 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S ]",LA 7 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/300.ts
-#EXTINF:0 channelID="x-ID.133" tvg-chno="133" tvg-name="LA 7 HD" tvg-id="La 7 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S ]",LA 7 HD
+#EXTINF:-1 channelID="x-ID.133" tvg-chno="133" tvg-name="LA 7 HD" tvg-id="La 7 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S ]",LA 7 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/301.ts
-#EXTINF:0 channelID="x-ID.134" tvg-chno="134" tvg-name="LA 7 HD +1" tvg-id="La 7 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/ecc77cc2044a25f76159895b6f7665c9.png" group-title="TOP ITALIA [ S ]",LA 7 HD +1
+#EXTINF:-1 channelID="x-ID.134" tvg-chno="134" tvg-name="LA 7 HD +1" tvg-id="La 7 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/ecc77cc2044a25f76159895b6f7665c9.png" group-title="TOP ITALIA [ S ]",LA 7 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5416.ts
-#EXTINF:0 channelID="x-ID.135" tvg-chno="135" tvg-name="TV 8 FULL HD" tvg-id="Tv8.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S ]",TV 8 FULL HD
+#EXTINF:-1 channelID="x-ID.135" tvg-chno="135" tvg-name="TV 8 FULL HD" tvg-id="Tv8.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S ]",TV 8 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52860.ts
-#EXTINF:0 channelID="x-ID.136" tvg-chno="136" tvg-name="TV 8 HD" tvg-id="Tv8.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S ]",TV 8 HD
+#EXTINF:-1 channelID="x-ID.136" tvg-chno="136" tvg-name="TV 8 HD" tvg-id="Tv8.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S ]",TV 8 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/13.ts
-#EXTINF:0 channelID="x-ID.137" tvg-chno="137" tvg-name="TV 8 HD +1" tvg-id="TV 8 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S ]",TV 8 HD +1
+#EXTINF:-1 channelID="x-ID.137" tvg-chno="137" tvg-name="TV 8 HD +1" tvg-id="TV 8 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S ]",TV 8 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5417.ts
-#EXTINF:0 channelID="x-ID.138" tvg-chno="138" tvg-name="NOVE FULL HD" tvg-id="Nove Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Nove%20HD.png" group-title="TOP ITALIA [ S ]",NOVE FULL HD
+#EXTINF:-1 channelID="x-ID.138" tvg-chno="138" tvg-name="NOVE FULL HD" tvg-id="Nove Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Nove%20HD.png" group-title="TOP ITALIA [ S ]",NOVE FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/288.ts
-#EXTINF:0 channelID="x-ID.139" tvg-chno="139" tvg-name="NOVE HD" tvg-id="Nove.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b36919e944b0ea7118b63cb4bbfc77c0.png" group-title="TOP ITALIA [ S ]",NOVE HD
+#EXTINF:-1 channelID="x-ID.139" tvg-chno="139" tvg-name="NOVE HD" tvg-id="Nove.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b36919e944b0ea7118b63cb4bbfc77c0.png" group-title="TOP ITALIA [ S ]",NOVE HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/289.ts
-#EXTINF:0 channelID="x-ID.140" tvg-chno="140" tvg-name="NOVE HD +1" tvg-id="Nove +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/7a2f31e678b431e8e60272a4728140f0.png" group-title="TOP ITALIA [ S ]",NOVE HD +1
+#EXTINF:-1 channelID="x-ID.140" tvg-chno="140" tvg-name="NOVE HD +1" tvg-id="Nove +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/7a2f31e678b431e8e60272a4728140f0.png" group-title="TOP ITALIA [ S ]",NOVE HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5418.ts
-#EXTINF:0 channelID="x-ID.141" tvg-chno="141" tvg-name="RSI LA 1 FULL HD" tvg-id="Rsi La1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b04ad226ed455d5d77e4af6c99d2f81.png" group-title="TOP ITALIA [ S ]",RSI LA 1 FULL HD
+#EXTINF:-1 channelID="x-ID.141" tvg-chno="141" tvg-name="RSI LA 1 FULL HD" tvg-id="Rsi La1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b04ad226ed455d5d77e4af6c99d2f81.png" group-title="TOP ITALIA [ S ]",RSI LA 1 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/26043.ts
-#EXTINF:0 channelID="x-ID.142" tvg-chno="142" tvg-name="RSI LA 1 HD" tvg-id="Rsi La1" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b04ad226ed455d5d77e4af6c99d2f81.png" group-title="TOP ITALIA [ S ]",RSI LA 1 HD
+#EXTINF:-1 channelID="x-ID.142" tvg-chno="142" tvg-name="RSI LA 1 HD" tvg-id="Rsi La1" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b04ad226ed455d5d77e4af6c99d2f81.png" group-title="TOP ITALIA [ S ]",RSI LA 1 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52862.ts
-#EXTINF:0 channelID="x-ID.143" tvg-chno="143" tvg-name="RSI LA 1 HD +1" tvg-id="Rsi La1 HD +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b04ad226ed455d5d77e4af6c99d2f81.png" group-title="TOP ITALIA [ S ]",RSI LA 1 HD +1
+#EXTINF:-1 channelID="x-ID.143" tvg-chno="143" tvg-name="RSI LA 1 HD +1" tvg-id="Rsi La1 HD +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b04ad226ed455d5d77e4af6c99d2f81.png" group-title="TOP ITALIA [ S ]",RSI LA 1 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/26045.ts
-#EXTINF:0 channelID="x-ID.144" tvg-chno="144" tvg-name="RSI LA 2 FULL HD" tvg-id="Rsi La2 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/33e3a681ab24f9861554f440e240e55e.png" group-title="TOP ITALIA [ S ]",RSI LA 2 FULL HD
+#EXTINF:-1 channelID="x-ID.144" tvg-chno="144" tvg-name="RSI LA 2 FULL HD" tvg-id="Rsi La2 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/33e3a681ab24f9861554f440e240e55e.png" group-title="TOP ITALIA [ S ]",RSI LA 2 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/26042.ts
-#EXTINF:0 channelID="x-ID.145" tvg-chno="145" tvg-name="RSI LA 2 HD" tvg-id="Rsi La2" tvg-logo="http://ariella007.theluckynew.com:8880/images/33e3a681ab24f9861554f440e240e55e.png" group-title="TOP ITALIA [ S ]",RSI LA 2 HD
+#EXTINF:-1 channelID="x-ID.145" tvg-chno="145" tvg-name="RSI LA 2 HD" tvg-id="Rsi La2" tvg-logo="http://ariella007.theluckynew.com:8880/images/33e3a681ab24f9861554f440e240e55e.png" group-title="TOP ITALIA [ S ]",RSI LA 2 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52863.ts
-#EXTINF:0 channelID="x-ID.146" tvg-chno="146" tvg-name="RSI LA 2 HD +1" tvg-id="Rsi La2 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/33e3a681ab24f9861554f440e240e55e.png" group-title="TOP ITALIA [ S ]",RSI LA 2 HD +1
+#EXTINF:-1 channelID="x-ID.146" tvg-chno="146" tvg-name="RSI LA 2 HD +1" tvg-id="Rsi La2 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/33e3a681ab24f9861554f440e240e55e.png" group-title="TOP ITALIA [ S ]",RSI LA 2 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/26046.ts
-#EXTINF:0 channelID="x-ID.147" tvg-chno="147" tvg-name="RAI MOVIE FULL HD" tvg-id="Rai Movie Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S ]",RAI MOVIE FULL HD
+#EXTINF:-1 channelID="x-ID.147" tvg-chno="147" tvg-name="RAI MOVIE FULL HD" tvg-id="Rai Movie Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S ]",RAI MOVIE FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/247.ts
-#EXTINF:0 channelID="x-ID.148" tvg-chno="148" tvg-name="RAI MOVIE HD" tvg-id="Rai Movie HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S ]",RAI MOVIE HD
+#EXTINF:-1 channelID="x-ID.148" tvg-chno="148" tvg-name="RAI MOVIE HD" tvg-id="Rai Movie HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S ]",RAI MOVIE HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/246.ts
-#EXTINF:0 channelID="x-ID.149" tvg-chno="149" tvg-name="RAI MOVIE HD +1" tvg-id="Rai Movie +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/86bbe9e228a6986ac4bdc523ec06569c.png" group-title="TOP ITALIA [ S ]",RAI MOVIE HD +1
+#EXTINF:-1 channelID="x-ID.149" tvg-chno="149" tvg-name="RAI MOVIE HD +1" tvg-id="Rai Movie +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/86bbe9e228a6986ac4bdc523ec06569c.png" group-title="TOP ITALIA [ S ]",RAI MOVIE HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5421.ts
-#EXTINF:0 channelID="x-ID.150" tvg-chno="150" tvg-name="IRIS FULL HD" tvg-id="Iris.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S ]",IRIS FULL HD
+#EXTINF:-1 channelID="x-ID.150" tvg-chno="150" tvg-name="IRIS FULL HD" tvg-id="Iris.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S ]",IRIS FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/309.ts
-#EXTINF:0 channelID="x-ID.151" tvg-chno="151" tvg-name="IRIS  HD" tvg-id="Iris" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S ]",IRIS  HD
+#EXTINF:-1 channelID="x-ID.151" tvg-chno="151" tvg-name="IRIS  HD" tvg-id="Iris" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S ]",IRIS  HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38635.ts
-#EXTINF:0 channelID="x-ID.152" tvg-chno="152" tvg-name="IRIS HD +1" tvg-id="Iris" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S ]",IRIS HD +1
+#EXTINF:-1 channelID="x-ID.152" tvg-chno="152" tvg-name="IRIS HD +1" tvg-id="Iris" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S ]",IRIS HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5433.ts
-#EXTINF:0 channelID="x-ID.153" tvg-chno="153" tvg-name="CINE 34 FULL HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S ]",CINE 34 FULL HD
+#EXTINF:-1 channelID="x-ID.153" tvg-chno="153" tvg-name="CINE 34 FULL HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S ]",CINE 34 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52861.ts
-#EXTINF:0 channelID="x-ID.154" tvg-chno="154" tvg-name="CINE 34 HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S ]",CINE 34 HD
+#EXTINF:-1 channelID="x-ID.154" tvg-chno="154" tvg-name="CINE 34 HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S ]",CINE 34 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5280.ts
-#EXTINF:0 channelID="x-ID.155" tvg-chno="155" tvg-name="CINE 34 HD +1" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S ]",CINE 34 HD +1
+#EXTINF:-1 channelID="x-ID.155" tvg-chno="155" tvg-name="CINE 34 HD +1" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S ]",CINE 34 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5419.ts
-#EXTINF:0 channelID="x-ID.156" tvg-chno="156" tvg-name="RAI 4 FULL HD" tvg-id="Rai 4 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 4 FULL HD
+#EXTINF:-1 channelID="x-ID.156" tvg-chno="156" tvg-name="RAI 4 FULL HD" tvg-id="Rai 4 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 4 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/253.ts
-#EXTINF:0 channelID="x-ID.157" tvg-chno="157" tvg-name="RAI 4 HD" tvg-id="Rai 4 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204.png" group-title="TOP ITALIA [ S ]",RAI 4 HD
+#EXTINF:-1 channelID="x-ID.157" tvg-chno="157" tvg-name="RAI 4 HD" tvg-id="Rai 4 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204.png" group-title="TOP ITALIA [ S ]",RAI 4 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/252.ts
-#EXTINF:0 channelID="x-ID.158" tvg-chno="158" tvg-name="RAI 4 HD +1" tvg-id="Rai 4 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/e785af3a1b24a053fb7ddd0189615856.png" group-title="TOP ITALIA [ S ]",RAI 4 HD +1
+#EXTINF:-1 channelID="x-ID.158" tvg-chno="158" tvg-name="RAI 4 HD +1" tvg-id="Rai 4 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/e785af3a1b24a053fb7ddd0189615856.png" group-title="TOP ITALIA [ S ]",RAI 4 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5423.ts
-#EXTINF:0 channelID="x-ID.159" tvg-chno="159" tvg-name="RAI 5 FULL HD" tvg-id="Rai 5 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 5 FULL HD
+#EXTINF:-1 channelID="x-ID.159" tvg-chno="159" tvg-name="RAI 5 FULL HD" tvg-id="Rai 5 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205%20FHD.png" group-title="TOP ITALIA [ S ]",RAI 5 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/251.ts
-#EXTINF:0 channelID="x-ID.160" tvg-chno="160" tvg-name="RAI 5 HD" tvg-id="Rai 5 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205.png" group-title="TOP ITALIA [ S ]",RAI 5 HD
+#EXTINF:-1 channelID="x-ID.160" tvg-chno="160" tvg-name="RAI 5 HD" tvg-id="Rai 5 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205.png" group-title="TOP ITALIA [ S ]",RAI 5 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/250.ts
-#EXTINF:0 channelID="x-ID.161" tvg-chno="161" tvg-name="RAI 5 HD +1" tvg-id="Rai 5 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/a5bb5fc19c6c7578433c5092bff4cafd.png" group-title="TOP ITALIA [ S ]",RAI 5 HD +1
+#EXTINF:-1 channelID="x-ID.161" tvg-chno="161" tvg-name="RAI 5 HD +1" tvg-id="Rai 5 +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/a5bb5fc19c6c7578433c5092bff4cafd.png" group-title="TOP ITALIA [ S ]",RAI 5 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5424.ts
-#EXTINF:0 channelID="x-ID.162" tvg-chno="162" tvg-name="LA 5 FULL HD" tvg-id="La 5 HD.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S ]",LA 5 FULL HD
+#EXTINF:-1 channelID="x-ID.162" tvg-chno="162" tvg-name="LA 5 FULL HD" tvg-id="La 5 HD.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S ]",LA 5 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/312.ts
-#EXTINF:0 channelID="x-ID.163" tvg-chno="163" tvg-name="LA 5 HD" tvg-id="LA5.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S ]",LA 5 HD
+#EXTINF:-1 channelID="x-ID.163" tvg-chno="163" tvg-name="LA 5 HD" tvg-id="LA5.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S ]",LA 5 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/302.ts
-#EXTINF:0 channelID="x-ID.164" tvg-chno="164" tvg-name="LA 5 HD +1" tvg-id="La 5 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S ]",LA 5 HD +1
+#EXTINF:-1 channelID="x-ID.164" tvg-chno="164" tvg-name="LA 5 HD +1" tvg-id="La 5 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S ]",LA 5 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5432.ts
-#EXTINF:0 channelID="x-ID.165" tvg-chno="165" tvg-name="RAI PREMIUM FULL HD" tvg-id="Rai Premium Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S ]",RAI PREMIUM FULL HD
+#EXTINF:-1 channelID="x-ID.165" tvg-chno="165" tvg-name="RAI PREMIUM FULL HD" tvg-id="Rai Premium Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S ]",RAI PREMIUM FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/244.ts
-#EXTINF:0 channelID="x-ID.166" tvg-chno="166" tvg-name="RAI PREMIUM HD" tvg-id="Rai Premium HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S ]",RAI PREMIUM HD
+#EXTINF:-1 channelID="x-ID.166" tvg-chno="166" tvg-name="RAI PREMIUM HD" tvg-id="Rai Premium HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S ]",RAI PREMIUM HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/243.ts
-#EXTINF:0 channelID="x-ID.167" tvg-chno="167" tvg-name="RAI PREMIUM HD +1" tvg-id="Rai Premium +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/b2f0cf6303b3c3d34997157f14ddd3be.png" group-title="TOP ITALIA [ S ]",RAI PREMIUM HD +1
+#EXTINF:-1 channelID="x-ID.167" tvg-chno="167" tvg-name="RAI PREMIUM HD +1" tvg-id="Rai Premium +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/b2f0cf6303b3c3d34997157f14ddd3be.png" group-title="TOP ITALIA [ S ]",RAI PREMIUM HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5420.ts
-#EXTINF:0 channelID="x-ID.168" tvg-chno="168" tvg-name="ITALIA 2 FULL HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1de9264d681f0c442078e95b6f73d913.png" group-title="TOP ITALIA [ S ]",ITALIA 2 FULL HD
+#EXTINF:-1 channelID="x-ID.168" tvg-chno="168" tvg-name="ITALIA 2 FULL HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1de9264d681f0c442078e95b6f73d913.png" group-title="TOP ITALIA [ S ]",ITALIA 2 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/305.ts
-#EXTINF:0 channelID="x-ID.169" tvg-chno="169" tvg-name="ITALIA 2 HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1de9264d681f0c442078e95b6f73d913.png" group-title="TOP ITALIA [ S ]",ITALIA 2 HD
+#EXTINF:-1 channelID="x-ID.169" tvg-chno="169" tvg-name="ITALIA 2 HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1de9264d681f0c442078e95b6f73d913.png" group-title="TOP ITALIA [ S ]",ITALIA 2 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52864.ts
-#EXTINF:0 channelID="x-ID.170" tvg-chno="170" tvg-name="ITALIA 2 HD +1" tvg-id="Italia 2 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/b4fcdf66141d7f53d5d43b6da49e4fea.png" group-title="TOP ITALIA [ S ]",ITALIA 2 HD +1
+#EXTINF:-1 channelID="x-ID.170" tvg-chno="170" tvg-name="ITALIA 2 HD +1" tvg-id="Italia 2 +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/b4fcdf66141d7f53d5d43b6da49e4fea.png" group-title="TOP ITALIA [ S ]",ITALIA 2 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5431.ts
-#EXTINF:0 channelID="x-ID.171" tvg-chno="171" tvg-name="CANALE 20 FULL HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S ]",CANALE 20 FULL HD
+#EXTINF:-1 channelID="x-ID.171" tvg-chno="171" tvg-name="CANALE 20 FULL HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S ]",CANALE 20 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/361.ts
-#EXTINF:0 channelID="x-ID.172" tvg-chno="172" tvg-name="CANALE 20 HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S ]",CANALE 20 HD
+#EXTINF:-1 channelID="x-ID.172" tvg-chno="172" tvg-name="CANALE 20 HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S ]",CANALE 20 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/360.ts
-#EXTINF:0 channelID="x-ID.173" tvg-chno="173" tvg-name="CANALE 20 HD +1" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/3ad90f3b1c74aa263355850dd80ef59d.png" group-title="TOP ITALIA [ S ]",CANALE 20 HD +1
+#EXTINF:-1 channelID="x-ID.173" tvg-chno="173" tvg-name="CANALE 20 HD +1" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/3ad90f3b1c74aa263355850dd80ef59d.png" group-title="TOP ITALIA [ S ]",CANALE 20 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5430.ts
-#EXTINF:0 channelID="x-ID.174" tvg-chno="174" tvg-name="MEDIASET 27 FULL HD" tvg-id="174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S ]",MEDIASET 27 FULL HD
+#EXTINF:-1 channelID="x-ID.174" tvg-chno="174" tvg-name="MEDIASET 27 FULL HD" tvg-id="174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S ]",MEDIASET 27 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39838.ts
-#EXTINF:0 channelID="x-ID.175" tvg-chno="175" tvg-name="MEDIASET 27 HD" tvg-id="175" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S ]",MEDIASET 27 HD
+#EXTINF:-1 channelID="x-ID.175" tvg-chno="175" tvg-name="MEDIASET 27 HD" tvg-id="175" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S ]",MEDIASET 27 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39839.ts
-#EXTINF:0 channelID="x-ID.176" tvg-chno="176" tvg-name="MEDIASET 27 HD +1 " tvg-id="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S ]",MEDIASET 27 HD +1
+#EXTINF:-1 channelID="x-ID.176" tvg-chno="176" tvg-name="MEDIASET 27 HD +1 " tvg-id="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S ]",MEDIASET 27 HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52873.ts
-#EXTINF:0 channelID="x-ID.177" tvg-chno="177" tvg-name="TOP CRIME FULL HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S ]",TOP CRIME FULL HD
+#EXTINF:-1 channelID="x-ID.177" tvg-chno="177" tvg-name="TOP CRIME FULL HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S ]",TOP CRIME FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52875.ts
-#EXTINF:0 channelID="x-ID.178" tvg-chno="178" tvg-name="TOP CRIME HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S ]",TOP CRIME HD
+#EXTINF:-1 channelID="x-ID.178" tvg-chno="178" tvg-name="TOP CRIME HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S ]",TOP CRIME HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/14.ts
-#EXTINF:0 channelID="x-ID.179" tvg-chno="179" tvg-name="TOP CRIME +1" tvg-id="Top Crime +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S ]",TOP CRIME +1
+#EXTINF:-1 channelID="x-ID.179" tvg-chno="179" tvg-name="TOP CRIME +1" tvg-id="Top Crime +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S ]",TOP CRIME +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5427.ts
-#EXTINF:0 channelID="x-ID.180" tvg-chno="180" tvg-name="GIALLO FULL HD" tvg-id="Giallo.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b23e2ecc280e2c77a3c2cd6d8d4f5c18.png" group-title="TOP ITALIA [ S ]",GIALLO FULL HD
+#EXTINF:-1 channelID="x-ID.180" tvg-chno="180" tvg-name="GIALLO FULL HD" tvg-id="Giallo.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b23e2ecc280e2c77a3c2cd6d8d4f5c18.png" group-title="TOP ITALIA [ S ]",GIALLO FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/318.ts
-#EXTINF:0 channelID="x-ID.181" tvg-chno="181" tvg-name="GIALLO HD +1" tvg-id="Giallo +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/b23e2ecc280e2c77a3c2cd6d8d4f5c18.png" group-title="TOP ITALIA [ S ]",GIALLO HD +1
+#EXTINF:-1 channelID="x-ID.181" tvg-chno="181" tvg-name="GIALLO HD +1" tvg-id="Giallo +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/b23e2ecc280e2c77a3c2cd6d8d4f5c18.png" group-title="TOP ITALIA [ S ]",GIALLO HD +1
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5434.ts
-#EXTINF:0 channelID="x-ID.182" tvg-chno="182" tvg-name="WarnerTV Italy FHD   " tvg-id="182" tvg-logo="http://ariella007.theluckynew.com:8880/images/71584bdd007564f0f19ef2361ad302c5.png" group-title="TOP ITALIA [ S ]",WarnerTV Italy FHD
+#EXTINF:-1 channelID="x-ID.182" tvg-chno="182" tvg-name="WarnerTV Italy FHD   " tvg-id="182" tvg-logo="http://ariella007.theluckynew.com:8880/images/71584bdd007564f0f19ef2361ad302c5.png" group-title="TOP ITALIA [ S ]",WarnerTV Italy FHD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/44349.ts
-#EXTINF:0 channelID="x-ID.183" tvg-chno="183" tvg-name="WarnerTV Italy HD " tvg-id="183" tvg-logo="http://ariella007.theluckynew.com:8880/images/71584bdd007564f0f19ef2361ad302c5.png" group-title="TOP ITALIA [ S ]",WarnerTV Italy HD
+#EXTINF:-1 channelID="x-ID.183" tvg-chno="183" tvg-name="WarnerTV Italy HD " tvg-id="183" tvg-logo="http://ariella007.theluckynew.com:8880/images/71584bdd007564f0f19ef2361ad302c5.png" group-title="TOP ITALIA [ S ]",WarnerTV Italy HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/44736.ts
-#EXTINF:0 channelID="x-ID.184" tvg-chno="184" tvg-name="LA 7D FULL HD" tvg-id="La 7d Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207d.png" group-title="TOP ITALIA [ S ]",LA 7D FULL HD
+#EXTINF:-1 channelID="x-ID.184" tvg-chno="184" tvg-name="LA 7D FULL HD" tvg-id="La 7d Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207d.png" group-title="TOP ITALIA [ S ]",LA 7D FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/298.ts
-#EXTINF:0 channelID="x-ID.185" tvg-chno="185" tvg-name="LA 7D HD" tvg-id="La 7d" tvg-logo="http://ariella007.theluckynew.com:8880/images/7c7a7b372b680c4497080eff75de63b4.png" group-title="TOP ITALIA [ S ]",LA 7D HD
+#EXTINF:-1 channelID="x-ID.185" tvg-chno="185" tvg-name="LA 7D HD" tvg-id="La 7d" tvg-logo="http://ariella007.theluckynew.com:8880/images/7c7a7b372b680c4497080eff75de63b4.png" group-title="TOP ITALIA [ S ]",LA 7D HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/299.ts
-#EXTINF:0 channelID="x-ID.186" tvg-chno="186" tvg-name="Telelombardia HD" tvg-id="186" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/a9194327edc18ed5b3e755c73ccb5c05.jpg" group-title="TOP ITALIA [ S ]",Telelombardia HD
+#EXTINF:-1 channelID="x-ID.186" tvg-chno="186" tvg-name="Telelombardia HD" tvg-id="186" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/a9194327edc18ed5b3e755c73ccb5c05.jpg" group-title="TOP ITALIA [ S ]",Telelombardia HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/46824.ts
-#EXTINF:0 channelID="x-ID.187" tvg-chno="187" tvg-name="GOLD TV HD" tvg-id="187" tvg-logo="http://ariella007.theluckynew.com:8880/images/77ce21ecc5c5d0ce113f151d3a0709f6.png" group-title="TOP ITALIA [ S ]",GOLD TV HD
+#EXTINF:-1 channelID="x-ID.187" tvg-chno="187" tvg-name="GOLD TV HD" tvg-id="187" tvg-logo="http://ariella007.theluckynew.com:8880/images/77ce21ecc5c5d0ce113f151d3a0709f6.png" group-title="TOP ITALIA [ S ]",GOLD TV HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/46825.ts
-#EXTINF:0 channelID="x-ID.188" tvg-chno="188" tvg-name="PADREPIO HD" tvg-id="PADREPIO" tvg-logo="http://ariella007.theluckynew.com:8880/images/5515c492cbec4a86d6b8a30b19df8e76.png" group-title="TOP ITALIA [ S ]",PADREPIO HD
+#EXTINF:-1 channelID="x-ID.188" tvg-chno="188" tvg-name="PADREPIO HD" tvg-id="PADREPIO" tvg-logo="http://ariella007.theluckynew.com:8880/images/5515c492cbec4a86d6b8a30b19df8e76.png" group-title="TOP ITALIA [ S ]",PADREPIO HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/287.ts
-#EXTINF:0 channelID="x-ID.189" tvg-chno="189" tvg-name="CANALE  7 HD" tvg-id="BIKE.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/3b27f7e8bc42f96d8e70406fb59d74a2.png" group-title="TOP ITALIA [ S ]",CANALE  7 HD
+#EXTINF:-1 channelID="x-ID.189" tvg-chno="189" tvg-name="CANALE  7 HD" tvg-id="BIKE.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/3b27f7e8bc42f96d8e70406fb59d74a2.png" group-title="TOP ITALIA [ S ]",CANALE  7 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/64.ts
-#EXTINF:0 channelID="x-ID.190" tvg-chno="190" tvg-name="QVC FULL HD" tvg-id="QVC.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/QVC%20FULL%20HD.png" group-title="TOP ITALIA [ S ]",QVC FULL HD
+#EXTINF:-1 channelID="x-ID.190" tvg-chno="190" tvg-name="QVC FULL HD" tvg-id="QVC.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/QVC%20FULL%20HD.png" group-title="TOP ITALIA [ S ]",QVC FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/272.ts
-#EXTINF:0 channelID="x-ID.191" tvg-chno="191" tvg-name="DONNA TV HD" tvg-id="DonnaTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/4552510b743e13d0cd1ad1d2f421b73d.jpg" group-title="TOP ITALIA [ S ]",DONNA TV HD
+#EXTINF:-1 channelID="x-ID.191" tvg-chno="191" tvg-name="DONNA TV HD" tvg-id="DonnaTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/4552510b743e13d0cd1ad1d2f421b73d.jpg" group-title="TOP ITALIA [ S ]",DONNA TV HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/334.ts
-#EXTINF:0 channelID="x-ID.192" tvg-chno="192" tvg-name="[S+] RAI 1 FULL HD" tvg-id="Rai 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 1 FULL HD
+#EXTINF:-1 channelID="x-ID.192" tvg-chno="192" tvg-name="[S+] RAI 1 FULL HD" tvg-id="Rai 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 1 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38588.ts
-#EXTINF:0 channelID="x-ID.193" tvg-chno="193" tvg-name="[S+] RAI 1 HD" tvg-id="Rai 1 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 1 HD
+#EXTINF:-1 channelID="x-ID.193" tvg-chno="193" tvg-name="[S+] RAI 1 HD" tvg-id="Rai 1 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 1 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38589.ts
-#EXTINF:0 channelID="x-ID.194" tvg-chno="194" tvg-name="[S+] RAI 2 FULL HD" tvg-id="Rai 2" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 2 FULL HD
+#EXTINF:-1 channelID="x-ID.194" tvg-chno="194" tvg-name="[S+] RAI 2 FULL HD" tvg-id="Rai 2" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 2 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38590.ts
-#EXTINF:0 channelID="x-ID.195" tvg-chno="195" tvg-name="[S+] RAI 2 HD" tvg-id="Rai 2 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 2 HD
+#EXTINF:-1 channelID="x-ID.195" tvg-chno="195" tvg-name="[S+] RAI 2 HD" tvg-id="Rai 2 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%202%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 2 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38592.ts
-#EXTINF:0 channelID="x-ID.196" tvg-chno="196" tvg-name="[S+] RAI 3 FULL HD" tvg-id="Rai 3" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 3 FULL HD
+#EXTINF:-1 channelID="x-ID.196" tvg-chno="196" tvg-name="[S+] RAI 3 FULL HD" tvg-id="Rai 3" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 3 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38591.ts
-#EXTINF:0 channelID="x-ID.197" tvg-chno="197" tvg-name="[S+] RAI 3 HD" tvg-id="Rai 3 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 3 HD
+#EXTINF:-1 channelID="x-ID.197" tvg-chno="197" tvg-name="[S+] RAI 3 HD" tvg-id="Rai 3 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%203.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 3 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38593.ts
-#EXTINF:0 channelID="x-ID.198" tvg-chno="198" tvg-name="[S+] RETE 4 FULL HD" tvg-id="Rete 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RETE 4 FULL HD
+#EXTINF:-1 channelID="x-ID.198" tvg-chno="198" tvg-name="[S+] RETE 4 FULL HD" tvg-id="Rete 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RETE 4 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38594.ts
-#EXTINF:0 channelID="x-ID.199" tvg-chno="199" tvg-name="[S+] RETE 4 HD" tvg-id="Rete 4 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RETE 4 HD
+#EXTINF:-1 channelID="x-ID.199" tvg-chno="199" tvg-name="[S+] RETE 4 HD" tvg-id="Rete 4 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rete%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RETE 4 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38595.ts
-#EXTINF:0 channelID="x-ID.200" tvg-chno="200" tvg-name="[S+] CANALE 5 FULL HD" tvg-id="Canale 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 5 FULL HD
+#EXTINF:-1 channelID="x-ID.200" tvg-chno="200" tvg-name="[S+] CANALE 5 FULL HD" tvg-id="Canale 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 5 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38596.ts
-#EXTINF:0 channelID="x-ID.201" tvg-chno="201" tvg-name="[S+] CANALE 5 HD" tvg-id="Canale 5 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 5 HD
+#EXTINF:-1 channelID="x-ID.201" tvg-chno="201" tvg-name="[S+] CANALE 5 HD" tvg-id="Canale 5 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Canale%205%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 5 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38597.ts
-#EXTINF:0 channelID="x-ID.202" tvg-chno="202" tvg-name="[S+] ITALIA 1 FULL HD" tvg-id="Italia 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 1 FULL HD
+#EXTINF:-1 channelID="x-ID.202" tvg-chno="202" tvg-name="[S+] ITALIA 1 FULL HD" tvg-id="Italia 1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 1 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38598.ts
-#EXTINF:0 channelID="x-ID.203" tvg-chno="203" tvg-name="[S+] ITALIA 1 HD" tvg-id="Italia 1 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 1 HD
+#EXTINF:-1 channelID="x-ID.203" tvg-chno="203" tvg-name="[S+] ITALIA 1 HD" tvg-id="Italia 1 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Italia%201%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 1 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38599.ts
-#EXTINF:0 channelID="x-ID.204" tvg-chno="204" tvg-name="[S+] LA 7 FULL HD" tvg-id="La 7" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7 FULL HD
+#EXTINF:-1 channelID="x-ID.204" tvg-chno="204" tvg-name="[S+] LA 7 FULL HD" tvg-id="La 7" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38600.ts
-#EXTINF:0 channelID="x-ID.205" tvg-chno="205" tvg-name="[S+] LA 7 HD" tvg-id="La 7 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7 HD
+#EXTINF:-1 channelID="x-ID.205" tvg-chno="205" tvg-name="[S+] LA 7 HD" tvg-id="La 7 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38601.ts
-#EXTINF:0 channelID="x-ID.206" tvg-chno="206" tvg-name="[S+] TV8 FULL HD" tvg-id="TV 8" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Tv%208.png" group-title="TOP ITALIA [ S+ ]",[S+] TV8 FULL HD
+#EXTINF:-1 channelID="x-ID.206" tvg-chno="206" tvg-name="[S+] TV8 FULL HD" tvg-id="TV 8" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Tv%208.png" group-title="TOP ITALIA [ S+ ]",[S+] TV8 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38606.ts
-#EXTINF:0 channelID="x-ID.207" tvg-chno="207" tvg-name="[S+] TV8 HD" tvg-id="TV 8" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S+ ]",[S+] TV8 HD
+#EXTINF:-1 channelID="x-ID.207" tvg-chno="207" tvg-name="[S+] TV8 HD" tvg-id="TV 8" tvg-logo="http://ariella007.theluckynew.com:8880/images/4570e2aa434632763a0dd97ffa3f3370.png" group-title="TOP ITALIA [ S+ ]",[S+] TV8 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52869.ts
-#EXTINF:0 channelID="x-ID.208" tvg-chno="208" tvg-name="[S+] NOVE FULL HD" tvg-id="Nove" tvg-logo="http://ariella007.theluckynew.com:8880/images/0452898d5d297aa8f40acdf5c8467a8b.png" group-title="TOP ITALIA [ S+ ]",[S+] NOVE FULL HD
+#EXTINF:-1 channelID="x-ID.208" tvg-chno="208" tvg-name="[S+] NOVE FULL HD" tvg-id="Nove" tvg-logo="http://ariella007.theluckynew.com:8880/images/0452898d5d297aa8f40acdf5c8467a8b.png" group-title="TOP ITALIA [ S+ ]",[S+] NOVE FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38607.ts
-#EXTINF:0 channelID="x-ID.209" tvg-chno="209" tvg-name="[S+] NOVE HD" tvg-id="Nove FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Nove%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] NOVE HD
+#EXTINF:-1 channelID="x-ID.209" tvg-chno="209" tvg-name="[S+] NOVE HD" tvg-id="Nove FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Nove%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] NOVE HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38608.ts
-#EXTINF:0 channelID="x-ID.210" tvg-chno="210" tvg-name="[S+] RSI LA 1 FULL HD" tvg-id="Rsi La1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rsi%20LA1%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] RSI LA 1 FULL HD
+#EXTINF:-1 channelID="x-ID.210" tvg-chno="210" tvg-name="[S+] RSI LA 1 FULL HD" tvg-id="Rsi La1" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rsi%20LA1%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] RSI LA 1 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38602.ts
-#EXTINF:0 channelID="x-ID.211" tvg-chno="211" tvg-name="[S+] RSI LA 2 FULL HD" tvg-id="Rsi La2" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rsi%20LA2%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] RSI LA 2 FULL HD
+#EXTINF:-1 channelID="x-ID.211" tvg-chno="211" tvg-name="[S+] RSI LA 2 FULL HD" tvg-id="Rsi La2" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rsi%20LA2%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] RSI LA 2 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38603.ts
-#EXTINF:0 channelID="x-ID.212" tvg-chno="212" tvg-name="[S+] RAI MOVIE FULL HD" tvg-id="Rai Movie" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI MOVIE FULL HD
+#EXTINF:-1 channelID="x-ID.212" tvg-chno="212" tvg-name="[S+] RAI MOVIE FULL HD" tvg-id="Rai Movie" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI MOVIE FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38612.ts
-#EXTINF:0 channelID="x-ID.213" tvg-chno="213" tvg-name="[S+] RAI MOVIE HD" tvg-id="Rai Movie FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI MOVIE HD
+#EXTINF:-1 channelID="x-ID.213" tvg-chno="213" tvg-name="[S+] RAI MOVIE HD" tvg-id="Rai Movie FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Movie.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI MOVIE HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38613.ts
-#EXTINF:0 channelID="x-ID.214" tvg-chno="214" tvg-name="[S+] IRIS FULL HD" tvg-id="Iris.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Iris.png" group-title="TOP ITALIA [ S+ ]",[S+] IRIS FULL HD
+#EXTINF:-1 channelID="x-ID.214" tvg-chno="214" tvg-name="[S+] IRIS FULL HD" tvg-id="Iris.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Iris.png" group-title="TOP ITALIA [ S+ ]",[S+] IRIS FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38626.ts
-#EXTINF:0 channelID="x-ID.215" tvg-chno="215" tvg-name="[S+] IRIS  HD" tvg-id="Iris.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S+ ]",[S+] IRIS  HD
+#EXTINF:-1 channelID="x-ID.215" tvg-chno="215" tvg-name="[S+] IRIS  HD" tvg-id="Iris.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/d25c7286a46dbb6eeecc5cfddacd5818.png" group-title="TOP ITALIA [ S+ ]",[S+] IRIS  HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52871.ts
-#EXTINF:0 channelID="x-ID.216" tvg-chno="216" tvg-name="[S+] CINE34 FULL HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/CINE%2034.png" group-title="TOP ITALIA [ S+ ]",[S+] CINE34 FULL HD
+#EXTINF:-1 channelID="x-ID.216" tvg-chno="216" tvg-name="[S+] CINE34 FULL HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/CINE%2034.png" group-title="TOP ITALIA [ S+ ]",[S+] CINE34 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38609.ts
-#EXTINF:0 channelID="x-ID.217" tvg-chno="217" tvg-name="[S+] CINE34 HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S+ ]",[S+] CINE34 HD
+#EXTINF:-1 channelID="x-ID.217" tvg-chno="217" tvg-name="[S+] CINE34 HD" tvg-id="Cine34.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8303d320f1e02d613b256c216b830117.png" group-title="TOP ITALIA [ S+ ]",[S+] CINE34 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52867.ts
-#EXTINF:0 channelID="x-ID.218" tvg-chno="218" tvg-name="[S+] RAI 4 FULL HD" tvg-id="Rai 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 4 FULL HD
+#EXTINF:-1 channelID="x-ID.218" tvg-chno="218" tvg-name="[S+] RAI 4 FULL HD" tvg-id="Rai 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 4 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38614.ts
-#EXTINF:0 channelID="x-ID.219" tvg-chno="219" tvg-name="[S+] RAI 4 HD" tvg-id="Rai 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 4 HD
+#EXTINF:-1 channelID="x-ID.219" tvg-chno="219" tvg-name="[S+] RAI 4 HD" tvg-id="Rai 4" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%204%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 4 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38615.ts
-#EXTINF:0 channelID="x-ID.220" tvg-chno="220" tvg-name="[S+] RAI 5 FULL HD" tvg-id="Rai 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 5 FULL HD
+#EXTINF:-1 channelID="x-ID.220" tvg-chno="220" tvg-name="[S+] RAI 5 FULL HD" tvg-id="Rai 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 5 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38616.ts
-#EXTINF:0 channelID="x-ID.221" tvg-chno="221" tvg-name="[S+] RAI 5 HD" tvg-id="Rai 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 5 HD
+#EXTINF:-1 channelID="x-ID.221" tvg-chno="221" tvg-name="[S+] RAI 5 HD" tvg-id="Rai 5" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%205%20FHD.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI 5 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38617.ts
-#EXTINF:0 channelID="x-ID.222" tvg-chno="222" tvg-name="[S+] LA 5 FULL HD" tvg-id="LA5.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 5 FULL HD
+#EXTINF:-1 channelID="x-ID.222" tvg-chno="222" tvg-name="[S+] LA 5 FULL HD" tvg-id="LA5.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 5 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38625.ts
-#EXTINF:0 channelID="x-ID.223" tvg-chno="223" tvg-name="[S+] LA 5 HD" tvg-id="La 5" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 5 HD
+#EXTINF:-1 channelID="x-ID.223" tvg-chno="223" tvg-name="[S+] LA 5 HD" tvg-id="La 5" tvg-logo="http://ariella007.theluckynew.com:8880/images/ef642bf322e09a327b68d77f8a5795af.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 5 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38632.ts
-#EXTINF:0 channelID="x-ID.224" tvg-chno="224" tvg-name="[S+] RAI PREMIUM FULL HD" tvg-id="Rai Premium" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI PREMIUM FULL HD
+#EXTINF:-1 channelID="x-ID.224" tvg-chno="224" tvg-name="[S+] RAI PREMIUM FULL HD" tvg-id="Rai Premium" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI PREMIUM FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38610.ts
-#EXTINF:0 channelID="x-ID.225" tvg-chno="225" tvg-name="[S+] RAI PREMIUM HD" tvg-id="Rai Premium FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI PREMIUM HD
+#EXTINF:-1 channelID="x-ID.225" tvg-chno="225" tvg-name="[S+] RAI PREMIUM HD" tvg-id="Rai Premium FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Premium.png" group-title="TOP ITALIA [ S+ ]",[S+] RAI PREMIUM HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38611.ts
-#EXTINF:0 channelID="x-ID.226" tvg-chno="226" tvg-name="[S+] ITALIA 2 FULL HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Mediaset%20Italia%202.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 2 FULL HD
+#EXTINF:-1 channelID="x-ID.226" tvg-chno="226" tvg-name="[S+] ITALIA 2 FULL HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Mediaset%20Italia%202.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 2 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38624.ts
-#EXTINF:0 channelID="x-ID.227" tvg-chno="227" tvg-name="[S+] ITALIA 2 HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1de9264d681f0c442078e95b6f73d913.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 2 HD
+#EXTINF:-1 channelID="x-ID.227" tvg-chno="227" tvg-name="[S+] ITALIA 2 HD" tvg-id="Italia2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1de9264d681f0c442078e95b6f73d913.png" group-title="TOP ITALIA [ S+ ]",[S+] ITALIA 2 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52872.ts
-#EXTINF:0 channelID="x-ID.228" tvg-chno="228" tvg-name="[S+] CANALE 20 FULL HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 20 FULL HD
+#EXTINF:-1 channelID="x-ID.228" tvg-chno="228" tvg-name="[S+] CANALE 20 FULL HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 20 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38622.ts
-#EXTINF:0 channelID="x-ID.229" tvg-chno="229" tvg-name="[S+] CANALE 20 HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 20 HD
+#EXTINF:-1 channelID="x-ID.229" tvg-chno="229" tvg-name="[S+] CANALE 20 HD" tvg-id="20Mediaset.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/20%20Mediaset.png" group-title="TOP ITALIA [ S+ ]",[S+] CANALE 20 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38623.ts
-#EXTINF:0 channelID="x-ID.230" tvg-chno="230" tvg-name="[S+] MEDIASET 27 FULL HD" tvg-id="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S+ ]",[S+] MEDIASET 27 FULL HD
+#EXTINF:-1 channelID="x-ID.230" tvg-chno="230" tvg-name="[S+] MEDIASET 27 FULL HD" tvg-id="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S+ ]",[S+] MEDIASET 27 FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39840.ts
-#EXTINF:0 channelID="x-ID.231" tvg-chno="231" tvg-name="[S+] MEDIASET 27 HD" tvg-id="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S+ ]",[S+] MEDIASET 27 HD
+#EXTINF:-1 channelID="x-ID.231" tvg-chno="231" tvg-name="[S+] MEDIASET 27 HD" tvg-id="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/2048px-Twentyseven_logo.svg.png" group-title="TOP ITALIA [ S+ ]",[S+] MEDIASET 27 HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52865.ts
-#EXTINF:0 channelID="x-ID.232" tvg-chno="232" tvg-name="[S+] TOP CRIME FULL HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Top%20crime.png" group-title="TOP ITALIA [ S+ ]",[S+] TOP CRIME FULL HD
+#EXTINF:-1 channelID="x-ID.232" tvg-chno="232" tvg-name="[S+] TOP CRIME FULL HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Top%20crime.png" group-title="TOP ITALIA [ S+ ]",[S+] TOP CRIME FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38620.ts
-#EXTINF:0 channelID="x-ID.233" tvg-chno="233" tvg-name="[S+] TOP CRIME HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S+ ]",[S+] TOP CRIME HD
+#EXTINF:-1 channelID="x-ID.233" tvg-chno="233" tvg-name="[S+] TOP CRIME HD" tvg-id="TopCrime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/810b19849487a96c3b27cb1bccd971c2.png" group-title="TOP ITALIA [ S+ ]",[S+] TOP CRIME HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52870.ts
-#EXTINF:0 channelID="x-ID.234" tvg-chno="234" tvg-name="[S+] GIALLO FULL HD" tvg-id="Giallo.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Giallo.png" group-title="TOP ITALIA [ S+ ]",[S+] GIALLO FULL HD
+#EXTINF:-1 channelID="x-ID.234" tvg-chno="234" tvg-name="[S+] GIALLO FULL HD" tvg-id="Giallo.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Giallo.png" group-title="TOP ITALIA [ S+ ]",[S+] GIALLO FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38627.ts
-#EXTINF:0 channelID="x-ID.235" tvg-chno="235" tvg-name="[S+] GIALLO HD" tvg-id="Giallo.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b23e2ecc280e2c77a3c2cd6d8d4f5c18.png" group-title="TOP ITALIA [ S+ ]",[S+] GIALLO HD
+#EXTINF:-1 channelID="x-ID.235" tvg-chno="235" tvg-name="[S+] GIALLO HD" tvg-id="Giallo.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b23e2ecc280e2c77a3c2cd6d8d4f5c18.png" group-title="TOP ITALIA [ S+ ]",[S+] GIALLO HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52866.ts
-#EXTINF:0 channelID="x-ID.236" tvg-chno="236" tvg-name="[S+] LA 7D FULL HD" tvg-id="La 7d" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207d.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7D FULL HD
+#EXTINF:-1 channelID="x-ID.236" tvg-chno="236" tvg-name="[S+] LA 7D FULL HD" tvg-id="La 7d" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207d.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7D FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38604.ts
-#EXTINF:0 channelID="x-ID.237" tvg-chno="237" tvg-name="[S+] LA 7D HD" tvg-id="La 7d FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207d.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7D HD
+#EXTINF:-1 channelID="x-ID.237" tvg-chno="237" tvg-name="[S+] LA 7D HD" tvg-id="La 7d FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/La%207d.png" group-title="TOP ITALIA [ S+ ]",[S+] LA 7D HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38605.ts
-#EXTINF:0 channelID="x-ID.238" tvg-chno="238" tvg-name="[S+] QVC FULL HD" tvg-id="QVC.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/QVC%20FULL%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] QVC FULL HD
+#EXTINF:-1 channelID="x-ID.238" tvg-chno="238" tvg-name="[S+] QVC FULL HD" tvg-id="QVC.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/QVC%20FULL%20HD.png" group-title="TOP ITALIA [ S+ ]",[S+] QVC FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38631.ts
-#EXTINF:0 channelID="x-ID.239" tvg-chno="239" tvg-name="[S+] QVC  HD" tvg-id="QVC.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/df30e747ae2e3038535894c892ce6771.png" group-title="TOP ITALIA [ S+ ]",[S+] QVC  HD
+#EXTINF:-1 channelID="x-ID.239" tvg-chno="239" tvg-name="[S+] QVC  HD" tvg-id="QVC.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/df30e747ae2e3038535894c892ce6771.png" group-title="TOP ITALIA [ S+ ]",[S+] QVC  HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52868.ts
-#EXTINF:0 channelID="x-ID.240" tvg-chno="240" tvg-name="[S+] PADREPIO FULL HD" tvg-id="240" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/PADREPIO.png" group-title="TOP ITALIA [ S+ ]",[S+] PADREPIO FULL HD
+#EXTINF:-1 channelID="x-ID.240" tvg-chno="240" tvg-name="[S+] PADREPIO FULL HD" tvg-id="240" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/PADREPIO.png" group-title="TOP ITALIA [ S+ ]",[S+] PADREPIO FULL HD
 http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38619.ts
-#EXTINF:0 channelID="x-ID.200" tvg-chno="200" tvg-name="SKY DEA JUNIOR FULL HD" tvg-id="Dea Junior Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY DEA JUNIOR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/149.ts
-#EXTINF:0 channelID="x-ID.201" tvg-chno="201" tvg-name="SKY DEA JUNIOR HD" tvg-id="Dea Junior HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20HD.png" group-title="BAMBINI [ S ]",SKY DEA JUNIOR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/148.ts
-#EXTINF:0 channelID="x-ID.202" tvg-chno="202" tvg-name="SKY DEA KIDS FULL HD" tvg-id="Dea Kids Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY DEA KIDS FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/147.ts
-#EXTINF:0 channelID="x-ID.203" tvg-chno="203" tvg-name="SKY DEA KIDS HD" tvg-id="Dea Kids HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20HD.png" group-title="BAMBINI [ S ]",SKY DEA KIDS HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/146.ts
-#EXTINF:0 channelID="x-ID.204" tvg-chno="204" tvg-name="SKY DEA KIDS HD +1" tvg-id="DeAKidsPlus1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/eb712e4851ee432c0ac6cbd322cf3fe5.png" group-title="BAMBINI [ S ]",SKY DEA KIDS HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37750.ts
-#EXTINF:0 channelID="x-ID.205" tvg-chno="205" tvg-name="SKY NICK JR FULL HD" tvg-id="Nick Junior Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY NICK JR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/89.ts
-#EXTINF:0 channelID="x-ID.206" tvg-chno="206" tvg-name="SKY NICK JR HD" tvg-id="Nick Junior HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20HD.png" group-title="BAMBINI [ S ]",SKY NICK JR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/88.ts
-#EXTINF:0 channelID="x-ID.207" tvg-chno="207" tvg-name="SKY NICK JR HD +1" tvg-id="Nick Junior +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/90cec270c68133280e2158c3b38f5217.png" group-title="BAMBINI [ S ]",SKY NICK JR HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37751.ts
-#EXTINF:0 channelID="x-ID.208" tvg-chno="208" tvg-name="SKY BABY TV FULL HD" tvg-id="BabyTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1bd2aaa569b604ebc249539cb96a54e6.png" group-title="BAMBINI [ S ]",SKY BABY TV FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/218.ts
-#EXTINF:0 channelID="x-ID.209" tvg-chno="209" tvg-name="SKY NICKELODEON FULL HD" tvg-id="Nickelodeon Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY NICKELODEON FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/87.ts
-#EXTINF:0 channelID="x-ID.210" tvg-chno="210" tvg-name="SKY NICKELODEON HD" tvg-id="Nickelodeon HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20HD.png" group-title="BAMBINI [ S ]",SKY NICKELODEON HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/86.ts
-#EXTINF:0 channelID="x-ID.211" tvg-chno="211" tvg-name="SKY NICKELODEON SD" tvg-id="Nickelodeon.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b338b0bea6eb3b7b7242f8085cb141f9.png" group-title="BAMBINI [ S ]",SKY NICKELODEON SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/290.ts
-#EXTINF:0 channelID="x-ID.212" tvg-chno="212" tvg-name="SKY NICKELODEON HD +1" tvg-id="NickelodeonPlus1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ea34f2535fd454a725e2b3824da0e407.png" group-title="BAMBINI [ S ]",SKY NICKELODEON HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37749.ts
-#EXTINF:0 channelID="x-ID.213" tvg-chno="213" tvg-name="SKY BOOMERANG FULL HD" tvg-id="Boomerang Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BOOMERANG%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY BOOMERANG FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/213.ts
-#EXTINF:0 channelID="x-ID.214" tvg-chno="214" tvg-name="SKY BOOMERANG HD" tvg-id="Boomerang HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BOOMERANG%20HD.png" group-title="BAMBINI [ S ]",SKY BOOMERANG HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/212.ts
-#EXTINF:0 channelID="x-ID.215" tvg-chno="215" tvg-name="SKY CARTOON NETWORK FULL HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY CARTOON NETWORK FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/192.ts
-#EXTINF:0 channelID="x-ID.216" tvg-chno="216" tvg-name="SKY CARTOON NETWORK HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY CARTOON NETWORK HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/191.ts
-#EXTINF:0 channelID="x-ID.217" tvg-chno="217" tvg-name="[S+] SKY  DEAJUNIOR FULL HD" tvg-id="DEAjr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAJUNIOR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38758.ts
-#EXTINF:0 channelID="x-ID.218" tvg-chno="218" tvg-name="[S+] SKY  DEAJUNIOR HD" tvg-id="DEAjr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAJUNIOR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38759.ts
-#EXTINF:0 channelID="x-ID.219" tvg-chno="219" tvg-name="[S+] SKY  DEAKIDS FULL HD" tvg-id="DeAKids.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAKIDS FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38760.ts
-#EXTINF:0 channelID="x-ID.220" tvg-chno="220" tvg-name="[S+] SKY  DEAKIDS HD" tvg-id="DeAKids.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAKIDS HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38761.ts
-#EXTINF:0 channelID="x-ID.221" tvg-chno="221" tvg-name="[S+] SKY NICKJR FULL HD" tvg-id="NickJr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKJR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38762.ts
-#EXTINF:0 channelID="x-ID.222" tvg-chno="222" tvg-name="[S+] SKY NICKJR HD" tvg-id="NickJr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKJR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38763.ts
-#EXTINF:0 channelID="x-ID.223" tvg-chno="223" tvg-name="[S+] SKY NICKELODEON FULL HD" tvg-id="Nickelodeon.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKELODEON FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38764.ts
-#EXTINF:0 channelID="x-ID.224" tvg-chno="224" tvg-name="[S+] SKY NICKELODEON HD" tvg-id="Nickelodeon.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKELODEON HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38765.ts
-#EXTINF:0 channelID="x-ID.225" tvg-chno="225" tvg-name="[S+] SKY BOOMERANG FULL HD" tvg-id="Boomerang.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BOOMERANG%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY BOOMERANG FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38766.ts
-#EXTINF:0 channelID="x-ID.226" tvg-chno="226" tvg-name="[S+] SKY CARTOON NETWORK FULL HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY CARTOON NETWORK FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38767.ts
-#EXTINF:0 channelID="x-ID.227" tvg-chno="227" tvg-name="[S+] SKY CARTOON NETWORK HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY CARTOON NETWORK HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38768.ts
-#EXTINF:0 channelID="x-ID.228" tvg-chno="228" tvg-name="[S+] SKY BABY HD" tvg-id="BabyTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BABY%20TV%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY BABY HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38770.ts
-#EXTINF:0 channelID="x-ID.229" tvg-chno="229" tvg-name="[S+] Frisbee" tvg-id="RadioFreccia.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20FRISBEE%20MINI.png" group-title="BAMBINI [ S+ ]",[S+] Frisbee
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38955.ts
-#EXTINF:0 channelID="x-ID.230" tvg-chno="230" tvg-name="SKY UNO FULL HD" tvg-id="Sky Uno Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Uno%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY UNO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/29.ts
-#EXTINF:0 channelID="x-ID.231" tvg-chno="231" tvg-name="SKY UNO HD" tvg-id="Sky Uno HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Uno%20HD..png" group-title="SKY INTRATTENIMENTO [ S ]",SKY UNO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/28.ts
-#EXTINF:0 channelID="x-ID.232" tvg-chno="232" tvg-name="SKY UNO SD" tvg-id="Sky Uno SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Uno%20SD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY UNO SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/27.ts
-#EXTINF:0 channelID="x-ID.233" tvg-chno="233" tvg-name="SKY UNO HD +1" tvg-id="Sky Uno +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/e4c9dd6dc23cbb6df6ec6d37d45a2d55.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY UNO HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5521.ts
-#EXTINF:0 channelID="x-ID.234" tvg-chno="234" tvg-name="SKY INVESTIGATION 4K HEVC H265" tvg-id="SkyInvestigation.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/aa138b62ebaa792b1c1e5846a8f7376e.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY INVESTIGATION 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39068.ts
-#EXTINF:0 channelID="x-ID.235" tvg-chno="235" tvg-name="SKY INVESTIGATION FULL HD" tvg-id="SkyInvestigation.it" tvg-logo="https://i.imgur.com/2fxU19C.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY INVESTIGATION FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39067.ts
-#EXTINF:0 channelID="x-ID.236" tvg-chno="236" tvg-name="SKY INVESTIGATION HD" tvg-id="SkyInvestigation.it" tvg-logo="https://i.imgur.com/2fxU19C.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY INVESTIGATION HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39066.ts
-#EXTINF:0 channelID="x-ID.237" tvg-chno="237" tvg-name="SKY SERIE 4K HEVC H 265" tvg-id="SkySerie.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/89c201165a48b843180221054424a532.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY SERIE 4K HEVC H 265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39071.ts
-#EXTINF:0 channelID="x-ID.238" tvg-chno="238" tvg-name="SKY SERIE FULL HD" tvg-id="SkySerie.it" tvg-logo="https://i.imgur.com/85B6ReP.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY SERIE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39070.ts
-#EXTINF:0 channelID="x-ID.239" tvg-chno="239" tvg-name="SKY SERIE HD" tvg-id="SkySerie.it" tvg-logo="https://i.imgur.com/85B6ReP.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY SERIE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39069.ts
-#EXTINF:0 channelID="x-ID.240" tvg-chno="240" tvg-name="SKY ATLANTIC 4K HEVC H265" tvg-id="Sky Atlantic" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Atlantic%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY ATLANTIC 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6644.ts
-#EXTINF:0 channelID="x-ID.241" tvg-chno="241" tvg-name="SKY ATLANTIC FULL HD" tvg-id="Sky Atlantic Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Atlantic%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY ATLANTIC FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/221.ts
-#EXTINF:0 channelID="x-ID.242" tvg-chno="242" tvg-name="SKY ATLANTIC HD" tvg-id="Sky Atlantic HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Atlantic%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY ATLANTIC HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/220.ts
-#EXTINF:0 channelID="x-ID.243" tvg-chno="243" tvg-name="SKY ATLANTIC SD" tvg-id="Sky Atlantic SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Atlantic%20SD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY ATLANTIC SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/219.ts
-#EXTINF:0 channelID="x-ID.244" tvg-chno="244" tvg-name="SKY ATLANTIC +1" tvg-id="Sky Atlantic +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/1980dc0cebeee596bad4ead1728a5141.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY ATLANTIC +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5522.ts
-#EXTINF:0 channelID="x-ID.245" tvg-chno="245" tvg-name="SKY CRIME  4K HEVC H265" tvg-id="Crime Investigation HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/672c6fddd4f493e3e2b1d2a5e9edfa97.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CRIME  4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6641.ts
-#EXTINF:0 channelID="x-ID.246" tvg-chno="246" tvg-name="SKY CRIME  FULL HD" tvg-id="Crime Investigation Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/672c6fddd4f493e3e2b1d2a5e9edfa97.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CRIME  FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/156.ts
-#EXTINF:0 channelID="x-ID.247" tvg-chno="247" tvg-name="SKY CRIME  HD" tvg-id="Crime Investigation HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/fdfff87bd5c21bde3b072609ee6273ab.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CRIME  HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/155.ts
-#EXTINF:0 channelID="x-ID.248" tvg-chno="248" tvg-name="SKY CRIME  SD" tvg-id="Crime Investigation SD" tvg-logo="http://ariella007.theluckynew.com:8880/images/fdfff87bd5c21bde3b072609ee6273ab.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CRIME  SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/349.ts
-#EXTINF:0 channelID="x-ID.249" tvg-chno="249" tvg-name="SKY CRIME  HD +1" tvg-id="Crime Investigation +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/e21755c4154951815bb715da001c5abe.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CRIME  HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5529.ts
-#EXTINF:0 channelID="x-ID.250" tvg-chno="250" tvg-name="SKY COMEDY CENTRAL 4K HEVC H265" tvg-id="Comedy Central" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Comedy%20Cental%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY COMEDY CENTRAL 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6645.ts
-#EXTINF:0 channelID="x-ID.251" tvg-chno="251" tvg-name="SKY COMEDY CENTRAL FULL HD" tvg-id="Comedy Central Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Comedy%20Cental%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY COMEDY CENTRAL FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/157.ts
-#EXTINF:0 channelID="x-ID.252" tvg-chno="252" tvg-name="SKY COMEDY CENTRAL FULL HD +1" tvg-id="Comedy Central +1 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/110903837df0fd1e703601f222bd6142.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY COMEDY CENTRAL FULL HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5530.ts
-#EXTINF:0 channelID="x-ID.253" tvg-chno="253" tvg-name="SKY CLASSICA FULL HD" tvg-id="Classica.it" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/fc61a6529a1f0f931e177fbb375d8d09.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CLASSICA FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37767.ts
-#EXTINF:0 channelID="x-ID.254" tvg-chno="254" tvg-name="REALTIME 4K HEVC H265" tvg-id="RealTime.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Real%20Time%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",REALTIME 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6640.ts
-#EXTINF:0 channelID="x-ID.255" tvg-chno="255" tvg-name="REALTIME FULL HD" tvg-id="Real Time Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Real%20Time%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",REALTIME FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/65.ts
-#EXTINF:0 channelID="x-ID.256" tvg-chno="256" tvg-name="REALTIME HD" tvg-id="RealTime.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/d1c8f937d85bced2ac071fc72c242903.png" group-title="SKY INTRATTENIMENTO [ S ]",REALTIME HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/232.ts
-#EXTINF:0 channelID="x-ID.257" tvg-chno="257" tvg-name=" REALTIME HD +1" tvg-id="Real Time +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/93780067164cd278940126d00969bbbd.png" group-title="SKY INTRATTENIMENTO [ S ]",REALTIME HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5531.ts
-#EXTINF:0 channelID="x-ID.258" tvg-chno="258" tvg-name="CIELO FULL HD" tvg-id="Cielo Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/e7d3cceb84e6154de85470d7c13c19e7.png" group-title="SKY INTRATTENIMENTO [ S ]",CIELO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/190.ts
-#EXTINF:0 channelID="x-ID.259" tvg-chno="259" tvg-name="CIELO HD" tvg-id="Cielo" tvg-logo="http://ariella007.theluckynew.com:8880/images/e7d3cceb84e6154de85470d7c13c19e7.png" group-title="SKY INTRATTENIMENTO [ S ]",CIELO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/353.ts
-#EXTINF:0 channelID="x-ID.260" tvg-chno="260" tvg-name="SKY CIELO +1" tvg-id="Cielo +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/431ceea4fc1a076c524d6fe2ad578ece.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY CIELO +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5532.ts
-#EXTINF:0 channelID="x-ID.261" tvg-chno="261" tvg-name="MEDIASET EXTRA HD " tvg-id="Mediaset Extra" tvg-logo="http://ariella007.theluckynew.com:8880/images/94e73fdfdb60b6bd3f4576ecc3c84f0d.png" group-title="SKY INTRATTENIMENTO [ S ]",MEDIASET EXTRA HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/295.ts
-#EXTINF:0 channelID="x-ID.262" tvg-chno="262" tvg-name="MEDIASET EXTRA HD +1" tvg-id="Mediaset Extra +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/94e73fdfdb60b6bd3f4576ecc3c84f0d.png" group-title="SKY INTRATTENIMENTO [ S ]",MEDIASET EXTRA HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5428.ts
-#EXTINF:0 channelID="x-ID.263" tvg-chno="263" tvg-name="HGTV HD " tvg-id="263" tvg-logo="http://ariella007.theluckynew.com:8880/images/a0b8e5c6ba5394dacb00957df7fd2fc4.png" group-title="SKY INTRATTENIMENTO [ S ]",HGTV HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39064.ts
-#EXTINF:0 channelID="x-ID.264" tvg-chno="264" tvg-name="TV2000 HD" tvg-id="TV2000.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/3d49b1ae9f382d4cab2801bfa1d60463.png" group-title="SKY INTRATTENIMENTO [ S ]",TV2000 HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/12.ts
-#EXTINF:0 channelID="x-ID.265" tvg-chno="265" tvg-name="SKY MTV FULL HD" tvg-id="MTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20MTV%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY MTV FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/99.ts
-#EXTINF:0 channelID="x-ID.266" tvg-chno="266" tvg-name="SKY MTV HD" tvg-id="MTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20MTV%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY MTV HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/98.ts
-#EXTINF:0 channelID="x-ID.267" tvg-chno="267" tvg-name="SKY MTV SD" tvg-id="MTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20MTV%20HD.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY MTV SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/96.ts
-#EXTINF:0 channelID="x-ID.268" tvg-chno="268" tvg-name="SKY MTV HD +1" tvg-id="MTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/c9c84f7487a900e440e5de8d15dbe79a.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY MTV HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5534.ts
-#EXTINF:0 channelID="x-ID.269" tvg-chno="269" tvg-name="SKY GAMBERO ROSSO FULL HD" tvg-id="Gambero Rosso Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Gambero%20Rosso.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY GAMBERO ROSSO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/114.ts
-#EXTINF:0 channelID="x-ID.270" tvg-chno="270" tvg-name="SKY GAMBERO ROSSO HD" tvg-id="Gambero Rosso HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Gambero%20Rosso.png" group-title="SKY INTRATTENIMENTO [ S ]",SKY GAMBERO ROSSO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/113.ts
-#EXTINF:0 channelID="x-ID.271" tvg-chno="271" tvg-name="ITALIAN FISHING TV HD" tvg-id="ItalianFishingTv.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/6a681145b0278634937e966c77ccf01a.png" group-title="SKY INTRATTENIMENTO [ S ]",ITALIAN FISHING TV HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/304.ts
-#EXTINF:0 channelID="x-ID.272" tvg-chno="272" tvg-name="[S+] SKY UNO FULL HD" tvg-id="SkyUno.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Uno%20HD..png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY UNO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38669.ts
-#EXTINF:0 channelID="x-ID.273" tvg-chno="273" tvg-name="[S+] SKY UNO HD" tvg-id="SkyUno.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Uno%20HD..png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY UNO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38670.ts
-#EXTINF:0 channelID="x-ID.274" tvg-chno="274" tvg-name="[S+] SKY ATLANTIC FULL HD" tvg-id="Sky Atlantic" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Atlantic%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY ATLANTIC FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38671.ts
-#EXTINF:0 channelID="x-ID.275" tvg-chno="275" tvg-name="[S+] SKY ATLANTIC HD" tvg-id="Sky Atlantic FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Atlantic%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY ATLANTIC HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38672.ts
-#EXTINF:0 channelID="x-ID.276" tvg-chno="276" tvg-name="[S+] SKY CRIME  FULL HD" tvg-id="CrimeInvestigation.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/672c6fddd4f493e3e2b1d2a5e9edfa97.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY CRIME  FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38677.ts
-#EXTINF:0 channelID="x-ID.277" tvg-chno="277" tvg-name="[S+] SKY CRIME  HD" tvg-id="CrimeInvestigation.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/672c6fddd4f493e3e2b1d2a5e9edfa97.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY CRIME  HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38678.ts
-#EXTINF:0 channelID="x-ID.278" tvg-chno="278" tvg-name="[S+] SKY COMEDY CENTRAL FULL HD" tvg-id="ComedyCentral.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Comedy%20Cental%20Full%20HD.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY COMEDY CENTRAL FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38679.ts
-#EXTINF:0 channelID="x-ID.279" tvg-chno="279" tvg-name="[S+] CLASSICA FULL HD" tvg-id="Classica.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/icon.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] CLASSICA FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38680.ts
-#EXTINF:0 channelID="x-ID.280" tvg-chno="280" tvg-name="[S+] CIELO FULL HD" tvg-id="280" tvg-logo="http://ariella007.theluckynew.com:8880/images/e7d3cceb84e6154de85470d7c13c19e7.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] CIELO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52634.ts
-#EXTINF:0 channelID="x-ID.281" tvg-chno="281" tvg-name="[S+] CIELO HD" tvg-id="281" tvg-logo="http://ariella007.theluckynew.com:8880/images/e7d3cceb84e6154de85470d7c13c19e7.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] CIELO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/52633.ts
-#EXTINF:0 channelID="x-ID.282" tvg-chno="282" tvg-name="[S+] TV2000 FULL HD" tvg-id="TV2000.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/3d49b1ae9f382d4cab2801bfa1d60463.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] TV2000 FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38618.ts
-#EXTINF:0 channelID="x-ID.283" tvg-chno="283" tvg-name="[S+] MEDIA EXTRA FULL HD" tvg-id="MediasetExtra.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/94e73fdfdb60b6bd3f4576ecc3c84f0d.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] MEDIA EXTRA FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38621.ts
-#EXTINF:0 channelID="x-ID.284" tvg-chno="284" tvg-name="[S+] SKY GAMBERO FULL HD" tvg-id="284" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Gambero%20Rosso.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY GAMBERO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38684.ts
-#EXTINF:0 channelID="x-ID.285" tvg-chno="285" tvg-name="[S+] SKY GAMBERO HD" tvg-id="285" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Gambero%20Rosso.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] SKY GAMBERO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38685.ts
-#EXTINF:0 channelID="x-ID.286" tvg-chno="286" tvg-name="[S+] MTV  FULL HD" tvg-id="286" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20MTV%20HD.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] MTV  FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38682.ts
-#EXTINF:0 channelID="x-ID.287" tvg-chno="287" tvg-name="[S+] MTV HD" tvg-id="MTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20MTV%20HD.png" group-title="SKY INTRATTENIMENTO [ S+ ]",[S+] MTV HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38683.ts
-#EXTINF:0 channelID="x-ID.288" tvg-chno="288" tvg-name="SKY CINEMA UNO 4K HEVC H265" tvg-id="Sky Cinema Uno" tvg-logo="http://ariella007.theluckynew.com:8880/images/d8edefe749b5ac2d2de572aadccd3cb4.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6651.ts
-#EXTINF:0 channelID="x-ID.289" tvg-chno="289" tvg-name="SKY CINEMA UNO FULL HD" tvg-id="Sky Cinema Uno Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Uno%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/161.ts
-#EXTINF:0 channelID="x-ID.290" tvg-chno="290" tvg-name="SKY CINEMA UNO HD" tvg-id="Sky Cinema Uno HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Uno%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/160.ts
-#EXTINF:0 channelID="x-ID.291" tvg-chno="291" tvg-name="SKY CINEMA UNO SD" tvg-id="Sky Cinema Uno SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Sky%20Cinema%201.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/159.ts
-#EXTINF:0 channelID="x-ID.292" tvg-chno="292" tvg-name="SKY CINEMA UNO HD +1" tvg-id="Sky Cinema Uno +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/7c7466796e12e5ba4c5a8cd8d8537442.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5489.ts
-#EXTINF:0 channelID="x-ID.293" tvg-chno="293" tvg-name="SKY CINEMA UNO 24 4K HEVC H265" tvg-id="Sky Cinema Uno +24" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20UNO%20%2024.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO 24 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6652.ts
-#EXTINF:0 channelID="x-ID.294" tvg-chno="294" tvg-name="SKY CINEMA UNO  24 FULL HD" tvg-id="Sky Cinema Uno +24 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20uno%20+24%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO  24 FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/163.ts
-#EXTINF:0 channelID="x-ID.295" tvg-chno="295" tvg-name="SKY CINEMA UNO  24 HD" tvg-id="Sky Cinema Uno +24 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Uno%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO  24 HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/162.ts
-#EXTINF:0 channelID="x-ID.296" tvg-chno="296" tvg-name="SKY CINEMA UNO  24 SD" tvg-id="Sky Cinema Uno +24" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Uno%20+24%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO  24 SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/33566.ts
-#EXTINF:0 channelID="x-ID.297" tvg-chno="297" tvg-name="SKY CINEMA UNO  24 HD +1" tvg-id="SkyCinemaUnoPlus24Plus1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/8207ba2a3447ed05238e5efceb7ca07c.png" group-title="SKY CINEMA [ S ]",SKY CINEMA UNO  24 HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5490.ts
-#EXTINF:0 channelID="x-ID.298" tvg-chno="298" tvg-name="SKY CINEMA DUE 4K HEVC H265" tvg-id="Sky Cinema Due" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20DUE.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6656.ts
-#EXTINF:0 channelID="x-ID.299" tvg-chno="299" tvg-name="SKY CINEMA DUE FULL HD" tvg-id="Sky Cinema Due Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Due%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/175.ts
-#EXTINF:0 channelID="x-ID.300" tvg-chno="300" tvg-name="SKY CINEMA DUE HD" tvg-id="Sky Cinema Due HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Due%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/174.ts
-#EXTINF:0 channelID="x-ID.301" tvg-chno="301" tvg-name="SKY CINEMA DUE SD" tvg-id="Sky Cinema Due SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Sky%20Cinema%20Due.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/173.ts
-#EXTINF:0 channelID="x-ID.302" tvg-chno="302" tvg-name="SKY CINEMA DUE HD +1" tvg-id="Sky Cinema Due HD +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/bceab78fd5e4714d1bdb025f3801366f.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5491.ts
-#EXTINF:0 channelID="x-ID.303" tvg-chno="303" tvg-name="SKY CINEMA DUE 24 4K HEVC H265" tvg-id="Sky Cinema Due +24" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20DUE.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE 24 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6657.ts
-#EXTINF:0 channelID="x-ID.304" tvg-chno="304" tvg-name="SKY CINEMA DUE  24 FULL HD" tvg-id="Sky Cinema Due +24 Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20due%20+24%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE  24 FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/177.ts
-#EXTINF:0 channelID="x-ID.305" tvg-chno="305" tvg-name="SKY CINEMA DUE  24 HD" tvg-id="Sky Cinema Due +24 HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20due%20+24%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE  24 HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/176.ts
-#EXTINF:0 channelID="x-ID.306" tvg-chno="306" tvg-name="SKY CINEMA DUE  24 SD" tvg-id="Sky Cinema Due +24" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/17d5c6acc8af796fb71e720c29ae5a65.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE  24 SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/33565.ts
-#EXTINF:0 channelID="x-ID.307" tvg-chno="307" tvg-name="SKY CINEMA DUE  24 HD +1" tvg-id="SkyCinemaDuePlus24Plus1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/468fb32fad57993fd5d28905025aa48e.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DUE  24 HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5492.ts
-#EXTINF:0 channelID="x-ID.308" tvg-chno="308" tvg-name="SKY CINEMA COLLECTION 4K HEVC H265" tvg-id="Sky Cinema Collection" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20COLLECTION.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COLLECTION 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6660.ts
-#EXTINF:0 channelID="x-ID.309" tvg-chno="309" tvg-name="SKY CINEMA COLLECTION FULL HD" tvg-id="Sky Cinema Collection Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/d444e5233877564c17a46388415c9029.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COLLECTION FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/186.ts
-#EXTINF:0 channelID="x-ID.310" tvg-chno="310" tvg-name="SKY CINEMA COLLECTION HD" tvg-id="Sky Cinema Collection HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Collection%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COLLECTION HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/185.ts
-#EXTINF:0 channelID="x-ID.311" tvg-chno="311" tvg-name="SKY CINEMA COLLECTION SD" tvg-id="Sky Cinema Collection SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Sky%20Cinema%20Collection.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COLLECTION SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/184.ts
-#EXTINF:0 channelID="x-ID.312" tvg-chno="312" tvg-name="SKY CINEMA COLLECTION HD +1" tvg-id="Sky Cinema Collection +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/4fc51a36191c6e7dd2a5b938fb8a9ce9.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COLLECTION HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5493.ts
-#EXTINF:0 channelID="x-ID.313" tvg-chno="313" tvg-name="SKY CINEMA FAMILY 4K HEVC H265" tvg-id="Sky Cinema Family" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20FAMILY.png" group-title="SKY CINEMA [ S ]",SKY CINEMA FAMILY 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6655.ts
-#EXTINF:0 channelID="x-ID.314" tvg-chno="314" tvg-name="SKY CINEMA FAMILY FULL HD" tvg-id="Sky Cinema Family Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Family%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA FAMILY FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/172.ts
-#EXTINF:0 channelID="x-ID.315" tvg-chno="315" tvg-name="SKY CINEMA FAMILY HD" tvg-id="Sky Cinema Family HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Cinema%20Family%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA FAMILY HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/171.ts
-#EXTINF:0 channelID="x-ID.316" tvg-chno="316" tvg-name="SKY CINEMA FAMILY SD" tvg-id="Sky Cinema Family SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Cinema%20Family%20SD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA FAMILY SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/170.ts
-#EXTINF:0 channelID="x-ID.317" tvg-chno="317" tvg-name="SKY CINEMA FAMILY HD +1" tvg-id="Sky Cinema Family +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/0991cea1d6661693c54753ac91b1f2c4.png" group-title="SKY CINEMA [ S ]",SKY CINEMA FAMILY HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5494.ts
-#EXTINF:0 channelID="x-ID.318" tvg-chno="318" tvg-name="SKY CINEMA ACTION 4K HEVC H265" tvg-id="Sky Cinema Action" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20ACTION.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ACTION 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6661.ts
-#EXTINF:0 channelID="x-ID.319" tvg-chno="319" tvg-name="SKY CINEMA ACTION FULL HD" tvg-id="Sky Cinema Action Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Action%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ACTION FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/189.ts
-#EXTINF:0 channelID="x-ID.320" tvg-chno="320" tvg-name="SKY CINEMA ACTION HD" tvg-id="Sky Cinema Action HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Action%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ACTION HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/188.ts
-#EXTINF:0 channelID="x-ID.321" tvg-chno="321" tvg-name="SKY CINEMA ACTION SD" tvg-id="Sky Cinema Action SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Sky%20Cinema%20Action.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ACTION SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/187.ts
-#EXTINF:0 channelID="x-ID.322" tvg-chno="322" tvg-name="SKY CINEMA ACTION HD +1" tvg-id="Sky Cinema Action +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/de188734c561660447340ea231b8851a.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ACTION HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5495.ts
-#EXTINF:0 channelID="x-ID.323" tvg-chno="323" tvg-name="SKY CINEMA SUSPENSE 4K HEVC H265" tvg-id="Sky Cinema Suspence" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20SUSPENSE.png" group-title="SKY CINEMA [ S ]",SKY CINEMA SUSPENSE 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6653.ts
-#EXTINF:0 channelID="x-ID.324" tvg-chno="324" tvg-name="SKY CINEMA SUSPENSE FULL HD" tvg-id="Sky Cinema Suspence Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Suspense%20Full-HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA SUSPENSE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/166.ts
-#EXTINF:0 channelID="x-ID.325" tvg-chno="325" tvg-name="SKY CINEMA SUSPENSE HD" tvg-id="Sky Cinema Suspence HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Suspense%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA SUSPENSE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/165.ts
-#EXTINF:0 channelID="x-ID.326" tvg-chno="326" tvg-name="SKY CINEMA SUSPENSE SD" tvg-id="Sky Cinema Suspence SD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CINEMA%20SUSPENSE%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA SUSPENSE SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/164.ts
-#EXTINF:0 channelID="x-ID.327" tvg-chno="327" tvg-name="SKY CINEMA SUSPENSE HD +1" tvg-id="Sky Cinema Suspence +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/1bede229192ae8d2a748e6f475b82a3c.png" group-title="SKY CINEMA [ S ]",SKY CINEMA SUSPENSE HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5496.ts
-#EXTINF:0 channelID="x-ID.328" tvg-chno="328" tvg-name="SKY CINEMA ROMANCE 4K HEVC H265" tvg-id="Sky Cinema Romance" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20ROMANCE.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ROMANCE 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6654.ts
-#EXTINF:0 channelID="x-ID.329" tvg-chno="329" tvg-name="SKY CINEMA ROMANCE FULL HD" tvg-id="Sky Cinema Romance Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Romance%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ROMANCE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/169.ts
-#EXTINF:0 channelID="x-ID.330" tvg-chno="330" tvg-name="SKY CINEMA ROMANCE HD" tvg-id="Sky Cinema Romance HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Romance%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ROMANCE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/168.ts
-#EXTINF:0 channelID="x-ID.331" tvg-chno="331" tvg-name="SKY CINEMA ROMANCE SD" tvg-id="Sky Cinema Romance SD" tvg-logo="http://ariella007.theluckynew.com:8880/images/52c2b9ddcc448d77f51a071f0a22ad6a.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ROMANCE SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/167.ts
-#EXTINF:0 channelID="x-ID.332" tvg-chno="332" tvg-name="SKY CINEMA ROMANCE HD +1" tvg-id="Sky Cinema Romance +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/2378b947dc6082c61ed52401a576a42b.png" group-title="SKY CINEMA [ S ]",SKY CINEMA ROMANCE HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5497.ts
-#EXTINF:0 channelID="x-ID.333" tvg-chno="333" tvg-name="SKY CINEMA DRAMA 4K HEVC H265" tvg-id="Sky Cinema Drama" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CINEMA%20DRAMA%20FULL%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DRAMA 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6658.ts
-#EXTINF:0 channelID="x-ID.334" tvg-chno="334" tvg-name="SKY CINEMA DRAMA FULL HD" tvg-id="Sky Cinema Drama Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Drama%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DRAMA FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/180.ts
-#EXTINF:0 channelID="x-ID.335" tvg-chno="335" tvg-name="SKY CINEMA DRAMA HD" tvg-id="Sky Cinema Drama HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Drama%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DRAMA HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/179.ts
-#EXTINF:0 channelID="x-ID.336" tvg-chno="336" tvg-name="SKY CINEMA DRAMA SD" tvg-id="Sky Cinema Drama SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Sky%20Cinema%20Drama.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DRAMA SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/178.ts
-#EXTINF:0 channelID="x-ID.337" tvg-chno="337" tvg-name="SKY CINEMA DRAMA HD +1" tvg-id="Sky Cinema Drama +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/9b286ce9ba06dac5be5f987f0b48f805.png" group-title="SKY CINEMA [ S ]",SKY CINEMA DRAMA HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5498.ts
-#EXTINF:0 channelID="x-ID.338" tvg-chno="338" tvg-name="SKY CINEMA COMEDY 4K HEVC H265" tvg-id="Sky Cinema Comedy" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20COMEDY.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COMEDY 4K HEVC H265
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/6659.ts
-#EXTINF:0 channelID="x-ID.339" tvg-chno="339" tvg-name="SKY CINEMA COMEDY FULL HD" tvg-id="Sky Cinema Comedy Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Comedy%20FHD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COMEDY FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/183.ts
-#EXTINF:0 channelID="x-ID.340" tvg-chno="340" tvg-name="SKY CINEMA COMEDY HD" tvg-id="Sky Cinema Comedy HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Comedy%20HD.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COMEDY HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/182.ts
-#EXTINF:0 channelID="x-ID.341" tvg-chno="341" tvg-name="SKY CINEMA COMEDY SD" tvg-id="Sky Cinema Comedy SD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/SD%20Sky%20Cinema%20Comedy.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COMEDY SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/181.ts
-#EXTINF:0 channelID="x-ID.342" tvg-chno="342" tvg-name="SKY CINEMA COMEDY HD +1" tvg-id="Sky Cinema Comedy +1 HD" tvg-logo="http://ariella007.theluckynew.com:8880/images/dd49301392d905759bb87c2145f33d72.png" group-title="SKY CINEMA [ S ]",SKY CINEMA COMEDY HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/5499.ts
-#EXTINF:0 channelID="x-ID.343" tvg-chno="343" tvg-name="[S+] SKY CINEMA UNO FULL HD" tvg-id="Sky Cinema Uno FHD" tvg-logo="http://ariella007.theluckynew.com:8880/images/8207ba2a3447ed05238e5efceb7ca07c.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA UNO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38637.ts
-#EXTINF:0 channelID="x-ID.344" tvg-chno="344" tvg-name="[S+] SKY CINEMA UNO HD" tvg-id="Sky Cinema Uno FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CINEMA%20UNO%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA UNO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38638.ts
-#EXTINF:0 channelID="x-ID.345" tvg-chno="345" tvg-name="[S+] SKY CINEMA UNO24 FULL HD" tvg-id="Sky Cinema Uno +24" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CINEMA%20UNO%20%2024%20FULL%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA UNO24 FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38639.ts
-#EXTINF:0 channelID="x-ID.346" tvg-chno="346" tvg-name="[S+] SKY CINEMA UNO24 HD" tvg-id="Sky Cinema Uno +24 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CINEMA%20UNO%20%2024%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA UNO24 HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38640.ts
-#EXTINF:0 channelID="x-ID.347" tvg-chno="347" tvg-name="[S+] SKY CINEMA DUE FULL HD" tvg-id="Sky Cinema Due" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CINEMA%20DUE%20FULL%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA DUE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38641.ts
-#EXTINF:0 channelID="x-ID.348" tvg-chno="348" tvg-name="[S+] SKY CINEMA DUE HD" tvg-id="Sky Cinema Due FHD" tvg-logo="http://ariella007.theluckynew.com:8880/images/0da00622210047d3a10d1a58f0f3d0db.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA DUE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38642.ts
-#EXTINF:0 channelID="x-ID.349" tvg-chno="349" tvg-name="[S+] SKY CINEMA DUE24 FULL HD" tvg-id="Sky Cinema Due +24" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20DUE.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA DUE24 FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38643.ts
-#EXTINF:0 channelID="x-ID.350" tvg-chno="350" tvg-name="[S+] SKY CINEMA DUE24 HD" tvg-id="Sky Cinema Due +24 FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/4K%20SKY%20CINEMA%20DUE.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA DUE24 HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38644.ts
-#EXTINF:0 channelID="x-ID.351" tvg-chno="351" tvg-name="[S+] SKY CINEMA COLLECTION HD" tvg-id="Sky Cinema Collection FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Collection%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA COLLECTION HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38645.ts
-#EXTINF:0 channelID="x-ID.352" tvg-chno="352" tvg-name="[S+] SKY CINEMA COLLECTION FULL HD" tvg-id="Sky Cinema Collection" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Collection%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA COLLECTION FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38646.ts
-#EXTINF:0 channelID="x-ID.353" tvg-chno="353" tvg-name="[S+] SKY CINEMA FAMILY FULL HD" tvg-id="Sky Cinema Family" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Family%20FHD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA FAMILY FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38647.ts
-#EXTINF:0 channelID="x-ID.354" tvg-chno="354" tvg-name="[S+] SKY CINEMA FAMILY HD" tvg-id="Sky Cinema Family FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Family%20FHD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA FAMILY HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38648.ts
-#EXTINF:0 channelID="x-ID.355" tvg-chno="355" tvg-name="[S+] SKY CINEMA ACTION FULL HD" tvg-id="Sky Cinema Action" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Action%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA ACTION FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38649.ts
-#EXTINF:0 channelID="x-ID.356" tvg-chno="356" tvg-name="[S+] SKY CINEMA ACTION HD" tvg-id="Sky Cinema Action FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Action%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA ACTION HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38650.ts
-#EXTINF:0 channelID="x-ID.357" tvg-chno="357" tvg-name="[S+] SKY CINEMA SUSPENSE FULL HD" tvg-id="Sky Cinema Suspence" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Suspense%20Full-HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA SUSPENSE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38651.ts
-#EXTINF:0 channelID="x-ID.358" tvg-chno="358" tvg-name="[S+] SKY CINEMA SUSPENSE HD" tvg-id="Sky Cinema Suspence FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Suspense%20Full-HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA SUSPENSE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38652.ts
-#EXTINF:0 channelID="x-ID.359" tvg-chno="359" tvg-name="[S+] SKY CINEMA ROMANCE FULL HD" tvg-id="Sky Cinema Romance" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Romance%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA ROMANCE FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38653.ts
-#EXTINF:0 channelID="x-ID.360" tvg-chno="360" tvg-name="[S+] SKY CINEMA ROMANCE HD" tvg-id="Sky Cinema Romance FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Romance%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA ROMANCE HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38656.ts
-#EXTINF:0 channelID="x-ID.361" tvg-chno="361" tvg-name="[S+] SKY CINEMA DRAMA FULL HD" tvg-id="Sky Cinema Drama" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Drama%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA DRAMA FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38654.ts
-#EXTINF:0 channelID="x-ID.362" tvg-chno="362" tvg-name="[S+] SKY CINEMA DRAMA HD" tvg-id="Sky Cinema Drama FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Drama%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA DRAMA HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38655.ts
-#EXTINF:0 channelID="x-ID.363" tvg-chno="363" tvg-name="[S+] SKY CINEMA COMEDY FULL HD" tvg-id="Sky Cinema Comedy" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Comedy%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA COMEDY FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38657.ts
-#EXTINF:0 channelID="x-ID.364" tvg-chno="364" tvg-name="[S+] SKY CINEMA COMEDY HD" tvg-id="Sky Cinema Comedy FHD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Sky%20Cinema%20Comedy%20HD.png" group-title="SKY CINEMA [ S+ ]",[S+] SKY CINEMA COMEDY HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38658.ts
-#EXTINF:0 channelID="x-ID.400" tvg-chno="400" tvg-name="SKY DEA JUNIOR FULL HD" tvg-id="Dea Junior Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY DEA JUNIOR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/149.ts
-#EXTINF:0 channelID="x-ID.401" tvg-chno="401" tvg-name="SKY DEA JUNIOR HD" tvg-id="Dea Junior HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20HD.png" group-title="BAMBINI [ S ]",SKY DEA JUNIOR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/148.ts
-#EXTINF:0 channelID="x-ID.402" tvg-chno="402" tvg-name="SKY DEA KIDS FULL HD" tvg-id="Dea Kids Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY DEA KIDS FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/147.ts
-#EXTINF:0 channelID="x-ID.403" tvg-chno="403" tvg-name="SKY DEA KIDS HD" tvg-id="Dea Kids HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20HD.png" group-title="BAMBINI [ S ]",SKY DEA KIDS HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/146.ts
-#EXTINF:0 channelID="x-ID.404" tvg-chno="404" tvg-name="SKY DEA KIDS HD +1" tvg-id="DeAKidsPlus1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/eb712e4851ee432c0ac6cbd322cf3fe5.png" group-title="BAMBINI [ S ]",SKY DEA KIDS HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37750.ts
-#EXTINF:0 channelID="x-ID.405" tvg-chno="405" tvg-name="SKY NICK JR FULL HD" tvg-id="Nick Junior Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY NICK JR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/89.ts
-#EXTINF:0 channelID="x-ID.406" tvg-chno="406" tvg-name="SKY NICK JR HD" tvg-id="Nick Junior HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20HD.png" group-title="BAMBINI [ S ]",SKY NICK JR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/88.ts
-#EXTINF:0 channelID="x-ID.407" tvg-chno="407" tvg-name="NICK JR SD" tvg-id="NickJr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/NICK%20JR%20SD.png" group-title="BAMBINI [ S ]",NICK JR SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/291.ts
-#EXTINF:0 channelID="x-ID.408" tvg-chno="408" tvg-name="SKY NICK JR HD +1" tvg-id="Nick Junior +1" tvg-logo="http://ariella007.theluckynew.com:8880/images/90cec270c68133280e2158c3b38f5217.png" group-title="BAMBINI [ S ]",SKY NICK JR HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37751.ts
-#EXTINF:0 channelID="x-ID.409" tvg-chno="409" tvg-name="BOING HD" tvg-id="Boing.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title="BAMBINI [ S ]",BOING HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/364.ts
-#EXTINF:0 channelID="x-ID.410" tvg-chno="410" tvg-name="BOING PLUS HD" tvg-id="410" tvg-logo="http://ariella007.theluckynew.com:8880/images/ac853b1b3889bb007666a6510a31fad1.png" group-title="BAMBINI [ S ]",BOING PLUS HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/363.ts
-#EXTINF:0 channelID="x-ID.411" tvg-chno="411" tvg-name="CARTOONITO HD" tvg-id="Cartoonito.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/6e094af70c32179f39f7f1b201a8e906.png" group-title="BAMBINI [ S ]",CARTOONITO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/356.ts
-#EXTINF:0 channelID="x-ID.412" tvg-chno="412" tvg-name="FRISBEE MINI HD" tvg-id="412" tvg-logo="http://ariella007.theluckynew.com:8880/images/7742c1099ae16e3449f7e93f456319f3.png" group-title="BAMBINI [ S ]",FRISBEE MINI HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/115.ts
-#EXTINF:0 channelID="x-ID.413" tvg-chno="413" tvg-name="SKY BABY TV FULL HD" tvg-id="BabyTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/1bd2aaa569b604ebc249539cb96a54e6.png" group-title="BAMBINI [ S ]",SKY BABY TV FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/218.ts
-#EXTINF:0 channelID="x-ID.414" tvg-chno="414" tvg-name="BABY TV HD" tvg-id="BabyTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/2acc1f063ff9e1b985df327c4dc91e2b.png" group-title="BAMBINI [ S ]",BABY TV HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/366.ts
-#EXTINF:0 channelID="x-ID.415" tvg-chno="415" tvg-name="K2 HD" tvg-id="K2.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ecebd75fc367b9aa41be06278689dc63.png" group-title="BAMBINI [ S ]",K2 HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/303.ts
-#EXTINF:0 channelID="x-ID.416" tvg-chno="416" tvg-name="RAI GULP FULL HD" tvg-id="Rai Gulp Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Gulp.png" group-title="BAMBINI [ S ]",RAI GULP FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/249.ts
-#EXTINF:0 channelID="x-ID.417" tvg-chno="417" tvg-name="RAI GULP HD" tvg-id="Rai Gulp HD" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Gulp.png" group-title="BAMBINI [ S ]",RAI GULP HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/248.ts
-#EXTINF:0 channelID="x-ID.418" tvg-chno="418" tvg-name="RAI YOYO FULL HD" tvg-id="Rai Yoyo Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/RAI%20YOYO%20FULL%20HD.png" group-title="BAMBINI [ S ]",RAI YOYO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/236.ts
-#EXTINF:0 channelID="x-ID.419" tvg-chno="419" tvg-name="RAI YOYO HD" tvg-id="Rai Yoyo HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/RAI%20YOYO%20HD.png" group-title="BAMBINI [ S ]",RAI YOYO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/235.ts
-#EXTINF:0 channelID="x-ID.420" tvg-chno="420" tvg-name="SUPER! HD" tvg-id="Super!.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/a948511ce7e332579ac0b0b7e65d9517.png" group-title="BAMBINI [ S ]",SUPER! HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/18.ts
-#EXTINF:0 channelID="x-ID.421" tvg-chno="421" tvg-name="SKY NICKELODEON FULL HD" tvg-id="Nickelodeon Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY NICKELODEON FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/87.ts
-#EXTINF:0 channelID="x-ID.422" tvg-chno="422" tvg-name="SKY NICKELODEON HD" tvg-id="Nickelodeon HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20HD.png" group-title="BAMBINI [ S ]",SKY NICKELODEON HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/86.ts
-#EXTINF:0 channelID="x-ID.423" tvg-chno="423" tvg-name="SKY NICKELODEON SD" tvg-id="Nickelodeon.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/b338b0bea6eb3b7b7242f8085cb141f9.png" group-title="BAMBINI [ S ]",SKY NICKELODEON SD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/290.ts
-#EXTINF:0 channelID="x-ID.424" tvg-chno="424" tvg-name="SKY NICKELODEON HD +1" tvg-id="NickelodeonPlus1.it" tvg-logo="http://ariella007.theluckynew.com:8880/images/ea34f2535fd454a725e2b3824da0e407.png" group-title="BAMBINI [ S ]",SKY NICKELODEON HD +1
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/37749.ts
-#EXTINF:0 channelID="x-ID.425" tvg-chno="425" tvg-name="SKY BOOMERANG FULL HD" tvg-id="Boomerang Full HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BOOMERANG%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY BOOMERANG FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/213.ts
-#EXTINF:0 channelID="x-ID.426" tvg-chno="426" tvg-name="SKY BOOMERANG HD" tvg-id="Boomerang HD" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BOOMERANG%20HD.png" group-title="BAMBINI [ S ]",SKY BOOMERANG HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/212.ts
-#EXTINF:0 channelID="x-ID.427" tvg-chno="427" tvg-name="SKY CARTOON NETWORK FULL HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY CARTOON NETWORK FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/192.ts
-#EXTINF:0 channelID="x-ID.428" tvg-chno="428" tvg-name="SKY CARTOON NETWORK HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S ]",SKY CARTOON NETWORK HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/191.ts
-#EXTINF:0 channelID="x-ID.429" tvg-chno="429" tvg-name="Yamato Animation HD" tvg-id="429" tvg-logo="http://ariella007.theluckynew.com:8880/images/6ba3469e3f5839dd13054d8e98320ade.png" group-title="BAMBINI [ S ]",Yamato Animation HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/39078.ts
-#EXTINF:0 channelID="x-ID.430" tvg-chno="430" tvg-name="[S+] SKY  DEAJUNIOR FULL HD" tvg-id="DEAjr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAJUNIOR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38758.ts
-#EXTINF:0 channelID="x-ID.431" tvg-chno="431" tvg-name="[S+] SKY  DEAJUNIOR HD" tvg-id="DEAjr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20JUNIOR%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAJUNIOR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38759.ts
-#EXTINF:0 channelID="x-ID.432" tvg-chno="432" tvg-name="[S+] SKY  DEAKIDS FULL HD" tvg-id="DeAKids.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAKIDS FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38760.ts
-#EXTINF:0 channelID="x-ID.433" tvg-chno="433" tvg-name="[S+] SKY  DEAKIDS HD" tvg-id="DeAKids.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20DEA%20KIDS%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY  DEAKIDS HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38761.ts
-#EXTINF:0 channelID="x-ID.434" tvg-chno="434" tvg-name="[S+] SKY NICKJR FULL HD" tvg-id="NickJr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKJR FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38762.ts
-#EXTINF:0 channelID="x-ID.435" tvg-chno="435" tvg-name="[S+] SKY NICKJR HD" tvg-id="NickJr.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICK%20JR%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKJR HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38763.ts
-#EXTINF:0 channelID="x-ID.436" tvg-chno="436" tvg-name="[S+] SKY NICKELODEON FULL HD" tvg-id="Nickelodeon.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKELODEON FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38764.ts
-#EXTINF:0 channelID="x-ID.437" tvg-chno="437" tvg-name="[S+] SKY NICKELODEON HD" tvg-id="Nickelodeon.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20NICKELODEON%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY NICKELODEON HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38765.ts
-#EXTINF:0 channelID="x-ID.438" tvg-chno="438" tvg-name="[S+] SKY BOOMERANG FULL HD" tvg-id="Boomerang.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BOOMERANG%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY BOOMERANG FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38766.ts
-#EXTINF:0 channelID="x-ID.439" tvg-chno="439" tvg-name="[S+] SKY CARTOON NETWORK FULL HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY CARTOON NETWORK FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38767.ts
-#EXTINF:0 channelID="x-ID.440" tvg-chno="440" tvg-name="[S+] SKY CARTOON NETWORK HD" tvg-id="CartoonNetwork.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20CARTOON%20NETWORK%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY CARTOON NETWORK HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38768.ts
-#EXTINF:0 channelID="x-ID.441" tvg-chno="441" tvg-name="[S+] SKY BABY HD" tvg-id="BabyTV.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20BABY%20TV%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] SKY BABY HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38770.ts
-#EXTINF:0 channelID="x-ID.442" tvg-chno="442" tvg-name="[S+] BOING PLUS HD" tvg-id="Boing.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/BOING%20PLUS.png" group-title="BAMBINI [ S+ ]",[S+] BOING PLUS HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38771.ts
-#EXTINF:0 channelID="x-ID.443" tvg-chno="443" tvg-name="[S+] RAI GULP FULL HD" tvg-id="RaiGulp.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Gulp.png" group-title="BAMBINI [ S+ ]",[S+] RAI GULP FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38948.ts
-#EXTINF:0 channelID="x-ID.444" tvg-chno="444" tvg-name="[S+] RAI GULP HD" tvg-id="RaiGulp.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/Rai%20Gulp.png" group-title="BAMBINI [ S+ ]",[S+] RAI GULP HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38949.ts
-#EXTINF:0 channelID="x-ID.445" tvg-chno="445" tvg-name="[S+] RAI YOYO FULL HD" tvg-id="RaiYoyo.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/RAI%20YOYO%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] RAI YOYO FULL HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38950.ts
-#EXTINF:0 channelID="x-ID.446" tvg-chno="446" tvg-name="[S+] RAI YOYO HD" tvg-id="RaiYoyo.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/RAI%20YOYO%20FULL%20HD.png" group-title="BAMBINI [ S+ ]",[S+] RAI YOYO HD
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38951.ts
-#EXTINF:0 channelID="x-ID.447" tvg-chno="447" tvg-name="[S+] BOING" tvg-id="Boing.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/BOING.png" group-title="BAMBINI [ S+ ]",[S+] BOING
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38952.ts
-#EXTINF:0 channelID="x-ID.448" tvg-chno="448" tvg-name="[S+] cartoonito" tvg-id="Cartoonito.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/CARTOONITO.png" group-title="BAMBINI [ S+ ]",[S+] cartoonito
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38953.ts
-#EXTINF:0 channelID="x-ID.449" tvg-chno="449" tvg-name="[S+] K2" tvg-id="K2.it" tvg-logo="http://ariella007.theluckynew.com:8880/Loghi/K2.png" group-title="BAMBINI [ S+ ]",[S+] K2
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38954.ts
-#EXTINF:0 channelID="x-ID.450" tvg-chno="450" tvg-name="[S+] Frisbee" tvg-id="RadioFreccia.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SKY%20FRISBEE%20MINI.png" group-title="BAMBINI [ S+ ]",[S+] Frisbee
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38955.ts
-#EXTINF:0 channelID="x-ID.451" tvg-chno="451" tvg-name="[S+] SUPER!" tvg-id="Super!.it" tvg-logo="http://ariella007.theluckynew.com:8880/Picons/SUPER!.png" group-title="BAMBINI [ S+ ]",[S+] SUPER!
-http://tqgqw29l3.hallointernet.org:23000/live/Pinotravel/uczj5uy5z7/38956.ts
